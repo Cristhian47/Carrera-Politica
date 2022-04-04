@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 325bdc0421deedf488773b91625f9bc2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4897502540791334338
+    second: Arte7-Ver01-180420_0
+  - first:
+      213: 2673317779716545945
+    second: Arte7-Ver01-180420_1
+  - first:
+      213: 4208528457346707672
+    second: Arte7-Ver01-180420_2
+  - first:
+      213: -5625126134914384645
+    second: Arte7-Ver01-180420_3
+  - first:
+      213: 8807109457066579051
+    second: Arte7-Ver01-180420_4
+  - first:
+      213: -2093588883668802512
+    second: Arte7-Ver01-180420_5
+  - first:
+      213: 2516627865628672003
+    second: Arte7-Ver01-180420_6
+  - first:
+      213: 9133571405884267002
+    second: Arte7-Ver01-180420_7
+  - first:
+      213: -9201994279067540740
+    second: Arte7-Ver01-180420_8
+  - first:
+      213: -266375931810962082
+    second: Arte7-Ver01-180420_9
+  - first:
+      213: 4800281147132487385
+    second: Arte7-Ver01-180420_10
+  - first:
+      213: -133475314406768819
+    second: Arte7-Ver01-180420_11
+  - first:
+      213: 3764864031272194079
+    second: Arte7-Ver01-180420_12
+  - first:
+      213: 1568923199090968124
+    second: Arte7-Ver01-180420_13
+  - first:
+      213: 5098014655923610877
+    second: Arte7-Ver01-180420_14
+  - first:
+      213: 2333396885985071397
+    second: Arte7-Ver01-180420_15
+  - first:
+      213: -310344819469813104
+    second: Arte7-Ver01-180420_16
+  - first:
+      213: 1487446795807543650
+    second: Arte7-Ver01-180420_17
+  - first:
+      213: 1359770990628377115
+    second: Arte7-Ver01-180420_18
+  - first:
+      213: 2331790168051167427
+    second: Arte7-Ver01-180420_19
+  - first:
+      213: 8301434467237103077
+    second: Arte7-Ver01-180420_20
+  - first:
+      213: -3694423065701674959
+    second: Arte7-Ver01-180420_21
+  - first:
+      213: -4045085072937850972
+    second: Arte7-Ver01-180420_22
+  - first:
+      213: -8866159028074516277
+    second: Arte7-Ver01-180420_23
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arte7-Ver01-180420_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1481
+        width: 302
+        height: 403
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a0d512bba3674429933c39de02006f
+      internalID: 4897502540791334338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte7-Ver01-180420_1
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1481
+        width: 301
+        height: 403
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfb23e3b2cb7cb4e94fda5e04e2ceac
+      internalID: 2673317779716545945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte7-Ver01-180420_2
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1480
+        width: 301
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd38a74ab9f28e644aeab0e73d7f4f8b
+      internalID: 4208528457346707672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte7-Ver01-180420_3
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1480
+        width: 301
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab289ad588436a4394c437079e7c788
+      internalID: -5625126134914384645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte7-Ver01-180420_4
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 1481
+        width: 301
+        height: 403
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cb31bc1c0acec458b53f9e67fa7e11
+      internalID: 8807109457066579051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte7-Ver01-180420_5
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1480
+        width: 302
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59da7193664208d489318127d862fe02
+      internalID: -2093588883668802512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte7-Ver01-180420_6
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1066
+        width: 302
+        height: 403
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ef1dbaaa4656146a6e5331d3cb569c
+      internalID: 2516627865628672003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte7-Ver01-180420_7
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1066
+        width: 302
+        height: 403
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a221b4fd70daff94083009aac7c18f15
+      internalID: 9133571405884267002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte7-Ver01-180420_8
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1066
+        width: 302
+        height: 403
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21e2c05aed4fd14492424eb68f184d4
+      internalID: -9201994279067540740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte7-Ver01-180420_10
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1066
+        width: 312
+        height: 403
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d656006525549f84782b0160357dbaac
+      internalID: 4800281147132487385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte7-Ver01-180420_11
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 1064
+        width: 306
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84e0d44d76cc1b4fbe2eaebb182ea26
+      internalID: -133475314406768819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte7-Ver01-180420_12
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 1063
+        width: 313
+        height: 403
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2284535d05a024f95c4fc2140cead3
+      internalID: 3764864031272194079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte7-Ver01-180420_14
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 651
+        width: 302
+        height: 403
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214393eb047fe6f46b86d08e748c1752
+      internalID: 5098014655923610877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte7-Ver01-180420_15
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 651
+        width: 301
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5787a0742ca9594ab202e3d9440f01b
+      internalID: 2333396885985071397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte7-Ver01-180420_16
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 651
+        width: 303
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f03f8cf0572b5408fbf06fb777edee
+      internalID: -310344819469813104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte7-Ver01-180420_17
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 651
+        width: 303
+        height: 403
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fcd5318e272454c8d649e6bf51d1c1
+      internalID: 1487446795807543650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte7-Ver01-180420_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 240
+        width: 307
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c976c541b214145b29fe38510f1b86
+      internalID: 1359770990628377115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte7-Ver01-180420_19
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 220
+        width: 310
+        height: 422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e7de70d847dfb4480e89ce3d82e205
+      internalID: 2331790168051167427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte7-Ver01-180420_20
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 222
+        width: 312
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acae7f96e467074468f5a05fd2103a7e
+      internalID: 8301434467237103077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte7-Ver01-180420_21
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 222
+        width: 312
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160d69f7a0e01544aaa61b66cb778468
+      internalID: -3694423065701674959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte7-Ver01-180420_22
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 222
+        width: 312
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e3775fbd052154aa6f3a1d924505b1
+      internalID: -4045085072937850972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte7-Ver01-180420_23
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 223
+        width: 312
+        height: 419
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac249f8934052243aa84567678d75a0
+      internalID: -8866159028074516277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte7-Ver01-180420_9
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 651
+        width: 302
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3f6c88beea2ad44a8ced85dc0a1a58
+      internalID: -266375931810962082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte7-Ver01-180420_13
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 649
+        width: 302
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e4cf57d34300e42b2e0edea52bb2ec
+      internalID: 1568923199090968124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

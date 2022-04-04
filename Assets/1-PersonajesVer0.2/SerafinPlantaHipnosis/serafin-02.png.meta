@@ -1,0 +1,475 @@
+fileFormatVersion: 2
+guid: fc3cc51ffd12f4f459c14d4392b6d08e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6956585110295883121
+    second: serafin-02_0
+  - first:
+      213: 5835902560049746789
+    second: serafin-02_1
+  - first:
+      213: 8645077723666830725
+    second: serafin-02_2
+  - first:
+      213: 5765663966331050491
+    second: serafin-02_3
+  - first:
+      213: 2346603034133154678
+    second: serafin-02_4
+  - first:
+      213: 2212009643612600762
+    second: serafin-02_5
+  - first:
+      213: -2053881721067760078
+    second: serafin-02_6
+  - first:
+      213: 5920284486461289808
+    second: serafin-02_7
+  - first:
+      213: 7136192866564871294
+    second: serafin-02_8
+  - first:
+      213: 6863476460094280370
+    second: serafin-02_9
+  - first:
+      213: 2100607924243806964
+    second: serafin-02_10
+  - first:
+      213: 4351461913863209182
+    second: serafin-02_11
+  - first:
+      213: -7714397716671739305
+    second: serafin-02_12
+  - first:
+      213: -2058738776162711423
+    second: serafin-02_13
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: serafin-02_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 365
+        width: 66
+        height: 120
+      alignment: 9
+      pivot: {x: 0.8240783, y: 0.9127734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af17b3a33ff36e4db2d92ae69f5c34e
+      internalID: 6956585110295883121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serafin-02_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 252
+        width: 193
+        height: 248
+      alignment: 9
+      pivot: {x: 0.6487384, y: 0.23672067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee79a42f2e6600b4da99a0572ec1189e
+      internalID: 5835902560049746789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serafin-02_2
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 246
+        width: 407
+        height: 246
+      alignment: 9
+      pivot: {x: 0.48617005, y: 0.058396503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2418360b3981064f8f5d0ce30c40bd1
+      internalID: 8645077723666830725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serafin-02_3
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 218
+        width: 79
+        height: 133
+      alignment: 9
+      pivot: {x: 0.67099935, y: 0.9274448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a783755b04aed949bdfd9d4934cafcf
+      internalID: 5765663966331050491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serafin-02_4
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 102
+        width: 169
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfb2af20239e5a42b88923b02ea02b6
+      internalID: 2346603034133154678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serafin-02_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 107
+        width: 98
+        height: 96
+      alignment: 9
+      pivot: {x: 0.34492272, y: 0.86938554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9527e1959cc6644d8067e780b78ed5a
+      internalID: 2212009643612600762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serafin-02_6
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 15
+        width: 131
+        height: 157
+      alignment: 9
+      pivot: {x: 0.89529955, y: 0.15582298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b121482535932948a74827fb910f1e0
+      internalID: -2053881721067760078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serafin-02_7
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 51
+        width: 103
+        height: 41
+      alignment: 9
+      pivot: {x: 0.24861993, y: 0.9667736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e4060a40532ea409bcda806f40a96d
+      internalID: 5920284486461289808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serafin-02_8
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1
+        width: 67
+        height: 83
+      alignment: 9
+      pivot: {x: 0.508401, y: 0.9882755}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e067f0ee75f494044ae77205d154fdf0
+      internalID: 7136192866564871294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serafin-02_9
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 2
+        width: 66
+        height: 95
+      alignment: 9
+      pivot: {x: 0.49999952, y: 0.98584855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4331df481d91ed4aade6beb8ec3c78b
+      internalID: 6863476460094280370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serafin-02_10
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 9
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8dfd0364bc61304f939aba48b397dc0
+      internalID: 2100607924243806964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serafin-02_11
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 9
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f086f8f3083fe2b42b2c24caffcc4dee
+      internalID: 4351461913863209182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serafin-02_12
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 9
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c690156ed6f5fd54ea9a517704951775
+      internalID: -7714397716671739305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serafin-02_13
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 9
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21a01ac2cad5f44a9390a92580fa1c8
+      internalID: -2058738776162711423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fa309ecd5c7af9f4ab89dd102a11d411
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: 4947a04cb33160c41a59942de229a094
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5977043775683055744
+    second: Profesor 2-02_0
+  - first:
+      213: -4167157885010632760
+    second: Profesor 2-02_1
+  - first:
+      213: -1510554503814325251
+    second: Profesor 2-02_2
+  - first:
+      213: 6396277311111911660
+    second: Profesor 2-02_3
+  - first:
+      213: -2775220913081254771
+    second: Profesor 2-02_4
+  - first:
+      213: -8637297332139582749
+    second: Profesor 2-02_5
+  - first:
+      213: -4595416078351833044
+    second: Profesor 2-02_6
+  - first:
+      213: 4140139249007629524
+    second: Profesor 2-02_7
+  - first:
+      213: 7939546698352935482
+    second: Profesor 2-02_8
+  - first:
+      213: 5144872228778769284
+    second: Profesor 2-02_9
+  - first:
+      213: 6099287689845299584
+    second: Profesor 2-02_10
+  - first:
+      213: 9120902080592737768
+    second: Profesor 2-02_11
+  - first:
+      213: 6170432513625769342
+    second: Profesor 2-02_12
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Profesor 2-02_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 380
+        width: 66
+        height: 120
+      alignment: 9
+      pivot: {x: 0.8155499, y: 0.90808284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0426a64bef6374daf0e733b8c8383a
+      internalID: 5977043775683055744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Profesor 2-02_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 232
+        width: 185
+        height: 268
+      alignment: 9
+      pivot: {x: 0.66125536, y: 0.21226273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e22f10cc89248e43bee4703d51bc835
+      internalID: -4167157885010632760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Profesor 2-02_2
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 117
+        width: 343
+        height: 381
+      alignment: 9
+      pivot: {x: 0.5410256, y: 0.06270249}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e0c50f81fa53d46a6eccbb9b418807
+      internalID: -1510554503814325251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Profesor 2-02_3
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 238
+        width: 79
+        height: 134
+      alignment: 9
+      pivot: {x: 0.6709993, y: 0.9326561}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab29ebbf4678d14aaf4842b0702fd3b
+      internalID: 6396277311111911660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Profesor 2-02_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 99
+        width: 102
+        height: 113
+      alignment: 9
+      pivot: {x: 0.43377963, y: 0.8785696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d4d27d8c1f3674a92b40ad067ab038
+      internalID: -2775220913081254771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Profesor 2-02_5
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 83
+        width: 168
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c2f33c11ca5f34a8e47a7dc9860b43
+      internalID: -8637297332139582749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Profesor 2-02_6
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 10
+        width: 66
+        height: 96
+      alignment: 9
+      pivot: {x: 0.49999952, y: 0.99837726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1a5c147575d8c4f846a8b7c4dae7e6
+      internalID: -4595416078351833044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Profesor 2-02_7
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 9
+        width: 99
+        height: 43
+      alignment: 9
+      pivot: {x: 0.2612055, y: 0.93197256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275c3ebdc2ca918468a1c55bd1b32ecf
+      internalID: 4140139249007629524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Profesor 2-02_8
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 68
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5082774, y: 0.98827547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049be79fba6fe5e4b8cf4cd8a61dc1a3
+      internalID: 7939546698352935482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Profesor 2-02_9
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 17
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dff7b3acd6843945a2b8502e4df62d2
+      internalID: 5144872228778769284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Profesor 2-02_10
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 17
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52ae92ae40131d489c293dde390642f
+      internalID: 6099287689845299584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Profesor 2-02_11
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 17
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb91b665549d3bb4c9c694f2bd5c17fe
+      internalID: 9120902080592737768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Profesor 2-02_12
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 17
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5972f4521428c479434e3a99798216
+      internalID: 6170432513625769342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f0c45fc27de51744c90e7508beff246e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

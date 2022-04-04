@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: 8849cf1b8a958ee43a66b1fca7315263
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3502086484091435761
+    second: Trumpetardo_Zombie 1-02_0
+  - first:
+      213: -2149854472591369423
+    second: Trumpetardo_Zombie 1-02_1
+  - first:
+      213: -7696693063440138813
+    second: Trumpetardo_Zombie 1-02_2
+  - first:
+      213: -7017488574242670200
+    second: Trumpetardo_Zombie 1-02_3
+  - first:
+      213: 1956274497946312691
+    second: Trumpetardo_Zombie 1-02_4
+  - first:
+      213: -1281735119538690815
+    second: Trumpetardo_Zombie 1-02_5
+  - first:
+      213: 3008543201022898076
+    second: Trumpetardo_Zombie 1-02_6
+  - first:
+      213: -3506915514747045121
+    second: Trumpetardo_Zombie 1-02_7
+  - first:
+      213: 286064966338439951
+    second: Trumpetardo_Zombie 1-02_8
+  - first:
+      213: -5597562148335090419
+    second: Trumpetardo_Zombie 1-02_9
+  - first:
+      213: -4489885222359780614
+    second: Trumpetardo_Zombie 1-02_10
+  - first:
+      213: 8780747175663795614
+    second: Trumpetardo_Zombie 1-02_11
+  - first:
+      213: 2550863429365276652
+    second: Trumpetardo_Zombie 1-02_12
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Trumpetardo_Zombie 1-02_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 378
+        width: 67
+        height: 120
+      alignment: 9
+      pivot: {x: 0.84063905, y: 0.9104103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6afc3e0f6a06847935cc2438493548
+      internalID: 3502086484091435761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trumpetardo_Zombie 1-02_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 248
+        width: 175
+        height: 245
+      alignment: 9
+      pivot: {x: 0.71278405, y: 0.2793711}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222a8765ebacae44eae2e78bf33deb30
+      internalID: -2149854472591369423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trumpetardo_Zombie 1-02_2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 137
+        width: 341
+        height: 354
+      alignment: 9
+      pivot: {x: 0.4524452, y: 0.08602668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2d750f7a658d345886683679f656a1
+      internalID: -7696693063440138813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trumpetardo_Zombie 1-02_3
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 236
+        width: 76
+        height: 135
+      alignment: 9
+      pivot: {x: 0.6817606, y: 0.92264473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5915e2ef7ff6e489fe0823a217c2ac
+      internalID: -7017488574242670200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trumpetardo_Zombie 1-02_4
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 99
+        width: 167
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3199b46d6592b4bb1eb824c6af66fc
+      internalID: 1956274497946312691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trumpetardo_Zombie 1-02_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 99
+        width: 101
+        height: 113
+      alignment: 9
+      pivot: {x: 0.4643207, y: 0.86673826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e54ff0a9cab08469b6ed95d3e85ff0
+      internalID: -1281735119538690815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trumpetardo_Zombie 1-02_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 13
+        width: 66
+        height: 96
+      alignment: 9
+      pivot: {x: 0.49090022, y: 0.98173165}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9e7ec14977bac479f5f51f4812ead3
+      internalID: 3008543201022898076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trumpetardo_Zombie 1-02_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 10
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e26dec290efbf488cedcf0810ccb72
+      internalID: -3506915514747045121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trumpetardo_Zombie 1-02_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 10
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd7c12fbc4b82e498f417bb1f0fff8f
+      internalID: 286064966338439951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trumpetardo_Zombie 1-02_9
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 10
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce785b7ddfd97c419a8979dbd650d5a
+      internalID: -5597562148335090419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trumpetardo_Zombie 1-02_10
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 10
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b7a236c6bb4a5479ddf75c467420ca
+      internalID: -4489885222359780614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trumpetardo_Zombie 1-02_11
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 11
+        width: 76
+        height: 66
+      alignment: 9
+      pivot: {x: 0.4999996, y: 1.0005006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66235865ed9ee4545890f5a3329e7ec6
+      internalID: 8780747175663795614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trumpetardo_Zombie 1-02_12
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 10
+        width: 67
+        height: 86
+      alignment: 9
+      pivot: {x: 0.49103603, y: 0.97489333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7afe3548fd5eb4c9aabc3c02f9491c
+      internalID: 2550863429365276652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

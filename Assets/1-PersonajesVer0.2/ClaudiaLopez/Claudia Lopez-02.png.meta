@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: 55f15327a1f5b544e80f2f98f0909910
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3611228010057554189
+    second: Claudia Lopez-02_0
+  - first:
+      213: -4693816618138421225
+    second: Claudia Lopez-02_1
+  - first:
+      213: -1065524718537302656
+    second: Claudia Lopez-02_2
+  - first:
+      213: -965078869211283209
+    second: Claudia Lopez-02_3
+  - first:
+      213: 3319269320614494445
+    second: Claudia Lopez-02_4
+  - first:
+      213: -3688864825859882991
+    second: Claudia Lopez-02_5
+  - first:
+      213: 8923622240630705682
+    second: Claudia Lopez-02_6
+  - first:
+      213: -3314978649848414943
+    second: Claudia Lopez-02_7
+  - first:
+      213: 7261874793477773425
+    second: Claudia Lopez-02_8
+  - first:
+      213: 3611569033902436565
+    second: Claudia Lopez-02_9
+  - first:
+      213: -2955574102073231775
+    second: Claudia Lopez-02_10
+  - first:
+      213: -5908719828291421065
+    second: Claudia Lopez-02_11
+  - first:
+      213: 8886478652534688823
+    second: Claudia Lopez-02_12
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Claudia Lopez-02_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 379
+        width: 66
+        height: 117
+      alignment: 9
+      pivot: {x: 0.8240783, y: 0.93779004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572f803c8747e8d41b5ee9540e3ea8d2
+      internalID: 3611228010057554189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claudia Lopez-02_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 272
+        width: 180
+        height: 228
+      alignment: 9
+      pivot: {x: 0.6844972, y: 0.24818835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a618b89dde45fc24ba1f4b42ec14f2a8
+      internalID: -4693816618138421225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claudia Lopez-02_2
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 134
+        width: 294
+        height: 347
+      alignment: 9
+      pivot: {x: 0.48851252, y: 0.055541378}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9e4ae27a10ae648aa5d873e8f499dd
+      internalID: -1065524718537302656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claudia Lopez-02_3
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 235
+        width: 82
+        height: 137
+      alignment: 9
+      pivot: {x: 0.6510147, y: 0.9437247}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49796b92692382242834acd9a4e5a0f2
+      internalID: -965078869211283209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claudia Lopez-02_4
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 113
+        width: 166
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67ac4d17060b614483db0e0e74eedac
+      internalID: 3319269320614494445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claudia Lopez-02_5
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 103
+        width: 100
+        height: 111
+      alignment: 9
+      pivot: {x: 0.46059892, y: 0.8904614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b872ffe30bd877441801f2b0ad3b7bf6
+      internalID: -3688864825859882991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claudia Lopez-02_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 12
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcae7ea0d830104dbbf0cab834656c9
+      internalID: 8923622240630705682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claudia Lopez-02_7
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 12
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0a3d1900bd60c4f811e8fc70b334e6
+      internalID: -3314978649848414943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claudia Lopez-02_8
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 3
+        width: 106
+        height: 36
+      alignment: 9
+      pivot: {x: 0.3141455, y: 0.95342606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbca912b8033a404ca38c6ce0d482396
+      internalID: 7261874793477773425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claudia Lopez-02_9
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 3
+        width: 67
+        height: 82
+      alignment: 9
+      pivot: {x: 0.49999955, y: 0.9942302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ea85410898a3b4893468111645d706
+      internalID: 3611569033902436565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claudia Lopez-02_10
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 0
+        width: 67
+        height: 97
+      alignment: 9
+      pivot: {x: 0.508401, y: 0.9874366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73df04f251c46c1489b72e0fedcff076
+      internalID: -2955574102073231775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claudia Lopez-02_11
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 12
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6c1c9cdc99cdc4a9df87d86fa12a8a
+      internalID: -5908719828291421065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claudia Lopez-02_12
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 12
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007bcc1fc85cc5c4388f47e8d966b9c9
+      internalID: 8886478652534688823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

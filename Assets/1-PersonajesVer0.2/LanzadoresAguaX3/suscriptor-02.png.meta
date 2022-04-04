@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: 940412f7b97053c428f055e998846f35
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1645840764572004667
+    second: suscriptor-02_0
+  - first:
+      213: -791902145310509084
+    second: suscriptor-02_1
+  - first:
+      213: -61066472028589768
+    second: suscriptor-02_2
+  - first:
+      213: -108351144902342683
+    second: suscriptor-02_3
+  - first:
+      213: -8743877948208831044
+    second: suscriptor-02_4
+  - first:
+      213: -4057400310075203976
+    second: suscriptor-02_5
+  - first:
+      213: 423122817385567464
+    second: suscriptor-02_6
+  - first:
+      213: -7683639819319956839
+    second: suscriptor-02_7
+  - first:
+      213: -5242300296204666754
+    second: suscriptor-02_8
+  - first:
+      213: -161533276080258182
+    second: suscriptor-02_9
+  - first:
+      213: 678431537272408786
+    second: suscriptor-02_10
+  - first:
+      213: 585305354702960591
+    second: suscriptor-02_11
+  - first:
+      213: -5526730959707979743
+    second: suscriptor-02_12
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: suscriptor-02_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 374
+        width: 71
+        height: 126
+      alignment: 9
+      pivot: {x: 0.8091838, y: 0.9065191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2f37ecead0da64193ad6e77e8f7bd8
+      internalID: -1645840764572004667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suscriptor-02_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 234
+        width: 186
+        height: 266
+      alignment: 9
+      pivot: {x: 0.68459797, y: 0.2714651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de19ea56f3a08ef4ca4382a240c9b17f
+      internalID: -791902145310509084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suscriptor-02_2
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 122
+        width: 347
+        height: 367
+      alignment: 9
+      pivot: {x: 0.48215654, y: 0.05675679}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daff5adc565cd084c9b6f02e2ada8e70
+      internalID: -61066472028589768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suscriptor-02_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 227
+        width: 83
+        height: 140
+      alignment: 9
+      pivot: {x: 0.66275835, y: 0.9181342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ba4f93d9595e44aa9e3fb3d579a8d5
+      internalID: -108351144902342683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suscriptor-02_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 105
+        height: 117
+      alignment: 9
+      pivot: {x: 0.46247512, y: 0.89449227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca438294d94f57944b14e2037c83506a
+      internalID: -8743877948208831044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suscriptor-02_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 72
+        width: 174
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0846f19860fb2964289cbf5045db30d4
+      internalID: -4057400310075203976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suscriptor-02_6
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 13
+        width: 69
+        height: 86
+      alignment: 9
+      pivot: {x: 0.49999955, y: 0.9974226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c765fbae44597d479523d134f1879f8
+      internalID: 423122817385567464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suscriptor-02_7
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 14
+        width: 69
+        height: 100
+      alignment: 9
+      pivot: {x: 0.49184164, y: 0.99532837}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a734476400e94c44badc9b56bf91343f
+      internalID: -7683639819319956839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suscriptor-02_8
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 22
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0c9ad33bf47e549a1fa57268dc8a61
+      internalID: -5242300296204666754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suscriptor-02_9
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 22
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7917ef4d2cc46024f9bb65ddecd77ed5
+      internalID: -161533276080258182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suscriptor-02_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 13
+        width: 90
+        height: 45
+      alignment: 9
+      pivot: {x: 0.33739218, y: 0.95029867}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfca20f051bfa6d47b15936693ab05dc
+      internalID: 678431537272408786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suscriptor-02_11
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 22
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e87ab65f2d2f6c45ac208dea78f506d
+      internalID: 585305354702960591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suscriptor-02_12
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 22
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1722404b1e4b97545be9818ee33a3ce4
+      internalID: -5526730959707979743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 487c111b5d988ed41b4cf48db93bb646
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

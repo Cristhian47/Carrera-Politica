@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "975589991335",
+    "firebase_url": "https://hola-soy-danny.firebaseio.com",
+    "project_id": "hola-soy-danny",
+    "storage_bucket": "hola-soy-danny.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975589991335:android:e7e44f331756023b",
+        "android_client_info": {
+          "package_name": "com.SomniaStudios.HolaSoyDannyPutoJuego"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975589991335-v71smqkbrnm370smn8cnf53bd5md6e0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc2g9oL7dih3rSTK1Bg9CAGQbWLNEjqiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975589991335-v71smqkbrnm370smn8cnf53bd5md6e0v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "975589991335-k0ml2c2kbrkvu40dlka71vsg8dqbp5kb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.somniastudios.hola-soy-danny-2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975589991335:android:aa9d966b791834486c4c82",
+        "android_client_info": {
+          "package_name": "com.castao.DonaldTrumpete"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975589991335-v71smqkbrnm370smn8cnf53bd5md6e0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc2g9oL7dih3rSTK1Bg9CAGQbWLNEjqiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975589991335-v71smqkbrnm370smn8cnf53bd5md6e0v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "975589991335-k0ml2c2kbrkvu40dlka71vsg8dqbp5kb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.somniastudios.hola-soy-danny-2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975589991335:android:eae8fc59cf91f4a96c4c82",
+        "android_client_info": {
+          "package_name": "com.somniastudios.holasoydanny2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975589991335-v71smqkbrnm370smn8cnf53bd5md6e0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc2g9oL7dih3rSTK1Bg9CAGQbWLNEjqiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975589991335-v71smqkbrnm370smn8cnf53bd5md6e0v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "975589991335-k0ml2c2kbrkvu40dlka71vsg8dqbp5kb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.somniastudios.hola-soy-danny-2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

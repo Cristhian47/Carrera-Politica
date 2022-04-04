@@ -1,0 +1,547 @@
+fileFormatVersion: 2
+guid: 238d85998a2bb6941a889f1a85a2a63f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4478159969632407934
+    second: Arte9-Ver01-220420_0
+  - first:
+      213: 5139547486235681295
+    second: Arte9-Ver01-220420_1
+  - first:
+      213: -8324823908628432130
+    second: Arte9-Ver01-220420_2
+  - first:
+      213: -7863528781723717950
+    second: Arte9-Ver01-220420_3
+  - first:
+      213: -571925567482587044
+    second: Arte9-Ver01-220420_4
+  - first:
+      213: -7723753199451179046
+    second: Arte9-Ver01-220420_5
+  - first:
+      213: 7495142488487565455
+    second: Arte9-Ver01-220420_6
+  - first:
+      213: 3609774562427704316
+    second: Arte9-Ver01-220420_7
+  - first:
+      213: -8660836656730361907
+    second: Arte9-Ver01-220420_8
+  - first:
+      213: -2313559397844765312
+    second: Arte9-Ver01-220420_9
+  - first:
+      213: -3391411066805013915
+    second: Arte9-Ver01-220420_10
+  - first:
+      213: 4869363286498556337
+    second: Arte9-Ver01-220420_11
+  - first:
+      213: -5062406144244193010
+    second: Arte9-Ver01-220420_12
+  - first:
+      213: -8169659940362244947
+    second: Arte9-Ver01-220420_13
+  - first:
+      213: -5303511854766498803
+    second: Arte9-Ver01-220420_14
+  - first:
+      213: -6631443645882229627
+    second: Arte9-Ver01-220420_15
+  - first:
+      213: -530325674778488533
+    second: Arte9-Ver01-220420_16
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arte9-Ver01-220420_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1432
+        width: 380
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179ff9d0300c9024994b741deb99d9ee
+      internalID: -4478159969632407934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte9-Ver01-220420_1
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1432
+        width: 380
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494399a6bfe028a478f59036b2347e39
+      internalID: 5139547486235681295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte9-Ver01-220420_2
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1432
+        width: 380
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b981f5b0a0cde4895be4a1f97c1b3a
+      internalID: -8324823908628432130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte9-Ver01-220420_3
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1432
+        width: 382
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f0500e079f7084ba6b09753756c6e9
+      internalID: -7863528781723717950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte9-Ver01-220420_4
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1432
+        width: 379
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad6536204ef1254598595c7ff875a88
+      internalID: -571925567482587044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte9-Ver01-220420_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 880
+        width: 380
+        height: 537
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a763e9321da164087d7563e5606e77
+      internalID: -7723753199451179046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte9-Ver01-220420_6
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 880
+        width: 380
+        height: 537
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776dd052b2ac9ea4b9c3192a23ad1f76
+      internalID: 7495142488487565455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte9-Ver01-220420_7
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 880
+        width: 380
+        height: 537
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f125b72dd3dd38f458c08e859c478dd0
+      internalID: 3609774562427704316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte9-Ver01-220420_8
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 880
+        width: 382
+        height: 537
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32995fad17bc4e84b8a2b0fdac23b344
+      internalID: -8660836656730361907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte9-Ver01-220420_9
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 880
+        width: 379
+        height: 537
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce03eefd6a07ce4f840eea825957d13
+      internalID: -2313559397844765312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte9-Ver01-220420_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 327
+        width: 380
+        height: 537
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9fddf10ace7ca48bdfad27d779f63a
+      internalID: -3391411066805013915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte9-Ver01-220420_11
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 327
+        width: 380
+        height: 537
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e093bb4a9868e3446ab221166a20ef4b
+      internalID: 4869363286498556337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte9-Ver01-220420_12
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 327
+        width: 380
+        height: 537
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc3f5faf0ce7524e808be705d9e486c
+      internalID: -5062406144244193010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte9-Ver01-220420_13
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 327
+        width: 384
+        height: 537
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c061a42e3e7de44bac0d2c12ce21e57
+      internalID: -8169659940362244947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte9-Ver01-220420_14
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 327
+        width: 379
+        height: 537
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892cda28fb8fece41bdf12bdd296cef2
+      internalID: -5303511854766498803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte9-Ver01-220420_15
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 26
+        width: 318
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92240913b1f68324cb9001b3ccdd298b
+      internalID: -6631443645882229627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte9-Ver01-220420_16
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 7
+        width: 309
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb996ae00efad543b7d3eec35c9fa3c
+      internalID: -530325674778488533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

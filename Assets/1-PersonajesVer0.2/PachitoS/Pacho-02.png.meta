@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: 12f5f852dce6bfe4e8a762f6ded080d7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8289198889482489416
+    second: Pacho-02_0
+  - first:
+      213: 4595616635898753677
+    second: Pacho-02_1
+  - first:
+      213: 6844032983444411085
+    second: Pacho-02_2
+  - first:
+      213: -409823720553344842
+    second: Pacho-02_3
+  - first:
+      213: 3403622380437720157
+    second: Pacho-02_4
+  - first:
+      213: -5977425768824867768
+    second: Pacho-02_5
+  - first:
+      213: -720713749478094335
+    second: Pacho-02_7
+  - first:
+      213: -5587688031977183228
+    second: Pacho-02_8
+  - first:
+      213: 2602161703093231777
+    second: Pacho-02_9
+  - first:
+      213: -2863701117496740796
+    second: Pacho-02_10
+  - first:
+      213: 8486467751822887474
+    second: Pacho-02_11
+  - first:
+      213: 8171221359290598572
+    second: Pacho-02_12
+  - first:
+      213: 4344902158227558715
+    second: Pacho-02_13
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pacho-02_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 366
+        width: 62
+        height: 111
+      alignment: 9
+      pivot: {x: 0.8293618, y: 0.916632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a83fe2a7c402e419339f456431ef31
+      internalID: 8289198889482489416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacho-02_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 242
+        width: 156
+        height: 236
+      alignment: 9
+      pivot: {x: 0.66940033, y: 0.28368184}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3d5a6e0013cab4b9b90e347dba9db5
+      internalID: 4595616635898753677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacho-02_2
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 129
+        width: 310
+        height: 362
+      alignment: 9
+      pivot: {x: 0.51937413, y: 0.050379127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4324c9a632b4e4b44ab62ccd6430f1d7
+      internalID: 6844032983444411085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacho-02_3
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 236
+        width: 73
+        height: 125
+      alignment: 9
+      pivot: {x: 0.65632075, y: 0.91321266}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833d37adcc130d240a9af61d9f3364b4
+      internalID: -409823720553344842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacho-02_4
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 110
+        width: 93
+        height: 104
+      alignment: 9
+      pivot: {x: 0.44833556, y: 0.8927002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea177582c4449c4a814e6246076de6a
+      internalID: 3403622380437720157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacho-02_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 95
+        width: 155
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21892317da72ee4b9a41c7b35248e99
+      internalID: -5977425768824867768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacho-02_7
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 18
+        width: 89
+        height: 34
+      alignment: 9
+      pivot: {x: 0.33129215, y: 0.9416183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9415fa18f2a1a74ead9f57cd9efabb9
+      internalID: -720713749478094335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacho-02_8
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 11
+        width: 62
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5096869, y: 0.96800023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516fc305d3b4a9343a73ceee05ebf96b
+      internalID: -5587688031977183228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacho-02_9
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 11
+        width: 62
+        height: 89
+      alignment: 9
+      pivot: {x: 0.49031264, y: 0.9723822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6274d572dd24cf468d5d3f7caab0058
+      internalID: 2602161703093231777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacho-02_10
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 19
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d815fc93f1273a429e81dc892b6ff8f
+      internalID: -2863701117496740796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacho-02_11
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 19
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e411444bbc370164d85525cfe16f6f40
+      internalID: 8486467751822887474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacho-02_12
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 19
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872bf4bf90cfd41429fb9a12fe86f191
+      internalID: 8171221359290598572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacho-02_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 19
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336bf834a50f10f4d8bfd40bc534c9d5
+      internalID: 4344902158227558715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

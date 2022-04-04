@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: 12a8fa66f1727ea4b929e538b1d46cc4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3589267210396839218
+    second: martha lucia-02_0
+  - first:
+      213: -3245223042870367878
+    second: martha lucia-02_1
+  - first:
+      213: -4306648486521895946
+    second: martha lucia-02_2
+  - first:
+      213: 4650049159104671896
+    second: martha lucia-02_3
+  - first:
+      213: 6270041864968590955
+    second: martha lucia-02_4
+  - first:
+      213: -480483434497611595
+    second: martha lucia-02_5
+  - first:
+      213: -7100538224013928353
+    second: martha lucia-02_6
+  - first:
+      213: -3686602619366016030
+    second: martha lucia-02_7
+  - first:
+      213: -2485862127095482357
+    second: martha lucia-02_8
+  - first:
+      213: 558232300573523053
+    second: martha lucia-02_9
+  - first:
+      213: -8922004522872105451
+    second: martha lucia-02_10
+  - first:
+      213: -8142749423387784163
+    second: martha lucia-02_11
+  - first:
+      213: 923510326381218661
+    second: martha lucia-02_12
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: martha lucia-02_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 376
+        width: 68
+        height: 121
+      alignment: 9
+      pivot: {x: 0.74832636, y: 0.84888804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f48a7a6feefeef4a97a8384fcdc2b89
+      internalID: 3589267210396839218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: martha lucia-02_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 258
+        width: 173
+        height: 242
+      alignment: 9
+      pivot: {x: 0.6887086, y: 0.35114107}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e437578743698a42b1a0776f9fac33c
+      internalID: -3245223042870367878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: martha lucia-02_2
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 79
+        width: 304
+        height: 418
+      alignment: 9
+      pivot: {x: 0.4777811, y: 0.24145551}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7c7c4ef8749434b80b91eebefa4afd
+      internalID: -4306648486521895946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: martha lucia-02_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 235
+        width: 81
+        height: 135
+      alignment: 9
+      pivot: {x: 0.68067527, y: 0.9211123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9285c6c624a23b4f83b4c13010fc976
+      internalID: 4650049159104671896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: martha lucia-02_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 97
+        width: 169
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc73c5e7ccf924340a3eae3244bba0a0
+      internalID: 6270041864968590955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: martha lucia-02_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 102
+        height: 113
+      alignment: 9
+      pivot: {x: 0.46688986, y: 0.8835506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cf118418c784e4a939241d4e68739f
+      internalID: -480483434497611595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: martha lucia-02_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 67
+        height: 83
+      alignment: 9
+      pivot: {x: 0.50840116, y: 0.9747123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea62b872c3f3b9348916408042bcf4ac
+      internalID: -7100538224013928353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: martha lucia-02_7
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 0
+        width: 66
+        height: 96
+      alignment: 9
+      pivot: {x: 0.49999976, y: 0.9807875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2872ab3875e290478168cf3dc9b911e
+      internalID: -3686602619366016030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: martha lucia-02_8
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 7
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d1846f30072b149baffb447fc0e75c
+      internalID: -2485862127095482357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: martha lucia-02_9
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 7
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954226a924e45494b9dae1ed59fd159d
+      internalID: 558232300573523053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: martha lucia-02_10
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 7
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0a45cfebc85f84dba211cdedffb281
+      internalID: -8922004522872105451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: martha lucia-02_11
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 7
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8179999fcc4cf44910a46201396eec
+      internalID: -8142749423387784163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: martha lucia-02_12
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 17
+        width: 104
+        height: 41
+      alignment: 9
+      pivot: {x: 0.32139558, y: 0.9118589}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b01ea959711964f94f7fc9be7fba3e
+      internalID: 923510326381218661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

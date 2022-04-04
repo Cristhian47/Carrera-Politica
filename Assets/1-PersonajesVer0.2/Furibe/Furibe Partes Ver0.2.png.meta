@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: 86a2db4affc64fe44bf41752251e55bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7918571391301677141
+    second: Furibe Partes Ver0.2_0
+  - first:
+      213: -120084332359435463
+    second: Furibe Partes Ver0.2_1
+  - first:
+      213: -9013343076337688125
+    second: Furibe Partes Ver0.2_2
+  - first:
+      213: 6107895230309765754
+    second: Furibe Partes Ver0.2_3
+  - first:
+      213: -2465529184962894022
+    second: Furibe Partes Ver0.2_4
+  - first:
+      213: -3373376352391327663
+    second: Furibe Partes Ver0.2_5
+  - first:
+      213: -406007130916605175
+    second: Furibe Partes Ver0.2_6
+  - first:
+      213: 310507148355009696
+    second: Furibe Partes Ver0.2_7
+  - first:
+      213: -5337362497970449392
+    second: Furibe Partes Ver0.2_8
+  - first:
+      213: -3352384698166403173
+    second: Furibe Partes Ver0.2_9
+  - first:
+      213: -7083479578817539536
+    second: Furibe Partes Ver0.2_10
+  - first:
+      213: -3214201496079968896
+    second: Furibe Partes Ver0.2_11
+  - first:
+      213: 4685650655604698742
+    second: Furibe Partes Ver0.2_12
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Furibe Partes Ver0.2_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 349
+        width: 62
+        height: 112
+      alignment: 9
+      pivot: {x: 0.8268295, y: 0.93220574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4b05845753d1349b08b4b6d2a9c7ec
+      internalID: -7918571391301677141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furibe Partes Ver0.2_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 198
+        width: 172
+        height: 263
+      alignment: 9
+      pivot: {x: 0.67671585, y: 0.28597987}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb34456ff31a0240872490d89b0f3e5
+      internalID: -120084332359435463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furibe Partes Ver0.2_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 387
+        width: 63
+        height: 77
+      alignment: 9
+      pivot: {x: 0.49106514, y: 0.9970826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41944c749dcf22142ba81fc9a07c6a7b
+      internalID: -9013343076337688125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furibe Partes Ver0.2_3
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 112
+        width: 273
+        height: 327
+      alignment: 9
+      pivot: {x: 0.47731996, y: 0.0610625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9261249cde42248a3e812730e2fe94
+      internalID: 6107895230309765754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furibe Partes Ver0.2_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 212
+        width: 77
+        height: 130
+      alignment: 9
+      pivot: {x: 0.65351075, y: 0.9199897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04acf45499af7747b43380a3d0c4784
+      internalID: -2465529184962894022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furibe Partes Ver0.2_5
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 274
+        width: 63
+        height: 92
+      alignment: 9
+      pivot: {x: 0.49999952, y: 1.0078092}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b1fe10cd58b5f4c8ae510c5d0ef70d
+      internalID: -3373376352391327663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furibe Partes Ver0.2_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 94
+        height: 104
+      alignment: 9
+      pivot: {x: 0.4520959, y: 0.8842693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b02fd88af14584eb5b0c50384a5588
+      internalID: -406007130916605175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furibe Partes Ver0.2_7
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 47
+        width: 157
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a818fcb828cc544ac5ae93b6dec7f3
+      internalID: 310507148355009696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furibe Partes Ver0.2_8
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 181
+        width: 101
+        height: 63
+      alignment: 9
+      pivot: {x: 0.31051788, y: 0.6876243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a810bb2ef7dc094eb09e3bd3fbda34e
+      internalID: -5337362497970449392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furibe Partes Ver0.2_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 102
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1626a642ab40440ac2e18049c2384a
+      internalID: -3352384698166403173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furibe Partes Ver0.2_10
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 113
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbcc66e4cfeee64abce69115b671fba
+      internalID: -7083479578817539536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furibe Partes Ver0.2_11
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 38
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6104a049eeee01458d1719bd47eebd9
+      internalID: -3214201496079968896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furibe Partes Ver0.2_12
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 38
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e543d658bebfdcb41bddfe52bd004778
+      internalID: 4685650655604698742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

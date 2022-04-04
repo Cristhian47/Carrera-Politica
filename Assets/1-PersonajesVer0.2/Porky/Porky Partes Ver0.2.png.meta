@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: c99e4f1b81552574d8c468cbe19acf83
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6898886964395582776
+    second: Porky Partes Ver0.2_0
+  - first:
+      213: -742758036490076235
+    second: Porky Partes Ver0.2_1
+  - first:
+      213: 6226735849234597887
+    second: Porky Partes Ver0.2_2
+  - first:
+      213: 4357036817627836416
+    second: Porky Partes Ver0.2_3
+  - first:
+      213: 4351302800452751419
+    second: Porky Partes Ver0.2_4
+  - first:
+      213: 6327122453303619928
+    second: Porky Partes Ver0.2_5
+  - first:
+      213: -4310420572100544026
+    second: Porky Partes Ver0.2_6
+  - first:
+      213: 6205516593481183329
+    second: Porky Partes Ver0.2_7
+  - first:
+      213: 4826206567468000574
+    second: Porky Partes Ver0.2_8
+  - first:
+      213: -4493232859985458811
+    second: Porky Partes Ver0.2_9
+  - first:
+      213: 911071659920085518
+    second: Porky Partes Ver0.2_10
+  - first:
+      213: 7908429755785513784
+    second: Porky Partes Ver0.2_11
+  - first:
+      213: -5432059910515211746
+    second: Porky Partes Ver0.2_12
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Porky Partes Ver0.2_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 348
+        width: 61
+        height: 111
+      alignment: 9
+      pivot: {x: 0.85986966, y: 0.9208869}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeed545801c68a542b5689e8a47f14e6
+      internalID: 6898886964395582776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Porky Partes Ver0.2_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 197
+        width: 173
+        height: 262
+      alignment: 9
+      pivot: {x: 0.6464119, y: 0.25508583}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966f2844fe14e3c458000ecf25421b28
+      internalID: -742758036490076235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Porky Partes Ver0.2_2
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 385
+        width: 62
+        height: 77
+      alignment: 9
+      pivot: {x: 0.4999995, y: 1.0043925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aad4caa49b101346adb0f71743e4b14
+      internalID: 6226735849234597887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Porky Partes Ver0.2_3
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 110
+        width: 269
+        height: 324
+      alignment: 9
+      pivot: {x: 0.49372247, y: 0.07784535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372ce6956ca5dff44a4db12f35851de8
+      internalID: 4357036817627836416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Porky Partes Ver0.2_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 212
+        width: 76
+        height: 129
+      alignment: 9
+      pivot: {x: 0.65553063, y: 0.9276087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5b65137dc3b3144b57114524a8f049
+      internalID: 4351302800452751419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Porky Partes Ver0.2_5
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 274
+        width: 62
+        height: 91
+      alignment: 9
+      pivot: {x: 0.4999995, y: 0.9948331}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0234a2057b8daed4e9e1630db3e24ca3
+      internalID: 6327122453303619928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Porky Partes Ver0.2_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 93
+        height: 104
+      alignment: 9
+      pivot: {x: 0.4515809, y: 0.9167426}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01436eb2fa62bc84ab23dc86a5ae5d98
+      internalID: -4310420572100544026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Porky Partes Ver0.2_7
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 182
+        width: 98
+        height: 42
+      alignment: 9
+      pivot: {x: 0.3047174, y: 0.969061}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ffb66c4ae9f194f9944fe45f7d8873
+      internalID: 6205516593481183329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Porky Partes Ver0.2_8
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 48
+        width: 155
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6246e4f524c2db42ae41d79dfdc4948
+      internalID: 4826206567468000574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Porky Partes Ver0.2_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 103
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7d18e342ecd0048b990664219063f1
+      internalID: -4493232859985458811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Porky Partes Ver0.2_10
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 113
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846bbb377f7b7ca4cbda0d2dd11a4745
+      internalID: 911071659920085518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Porky Partes Ver0.2_11
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 39
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524f3e9b36811874d9865a46bf5112b5
+      internalID: 7908429755785513784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Porky Partes Ver0.2_12
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 39
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307fa1574be69054ebf909367655e63d
+      internalID: -5432059910515211746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

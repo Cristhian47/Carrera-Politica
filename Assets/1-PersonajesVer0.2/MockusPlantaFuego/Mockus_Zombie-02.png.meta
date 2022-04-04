@@ -1,0 +1,475 @@
+fileFormatVersion: 2
+guid: 957abe9bb79738d408d0dc536295e765
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3342197310516098193
+    second: Mockus_Zombie-02_0
+  - first:
+      213: -4008969463720411291
+    second: Mockus_Zombie-02_1
+  - first:
+      213: -4631193253987342027
+    second: Mockus_Zombie-02_2
+  - first:
+      213: 1559875080273682337
+    second: Mockus_Zombie-02_3
+  - first:
+      213: -9074112058077375688
+    second: Mockus_Zombie-02_4
+  - first:
+      213: -1020170953038243299
+    second: Mockus_Zombie-02_5
+  - first:
+      213: 3602399602347784127
+    second: Mockus_Zombie-02_6
+  - first:
+      213: 3155601337867504823
+    second: Mockus_Zombie-02_7
+  - first:
+      213: 7383733709604624168
+    second: Mockus_Zombie-02_8
+  - first:
+      213: 8721022697656634754
+    second: Mockus_Zombie-02_9
+  - first:
+      213: -2855571076695720085
+    second: Mockus_Zombie-02_10
+  - first:
+      213: -8268549823905791681
+    second: Mockus_Zombie-02_11
+  - first:
+      213: 8307368174734522074
+    second: Mockus_Zombie-02_12
+  - first:
+      213: -977181095132984776
+    second: Mockus_Zombie-02_13
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mockus_Zombie-02_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 375
+        width: 67
+        height: 119
+      alignment: 9
+      pivot: {x: 0.8192413, y: 0.8925917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1958984f01788a9418e56bf8023d0060
+      internalID: 3342197310516098193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockus_Zombie-02_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 274
+        width: 139
+        height: 220
+      alignment: 9
+      pivot: {x: 0.7186694, y: 0.29276013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc88029c7c47c544caaf960cd1827793
+      internalID: -4008969463720411291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockus_Zombie-02_2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 311
+        width: 146
+        height: 184
+      alignment: 9
+      pivot: {x: 0.9395031, y: 0.11761342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f37de3d5d6d2344abe8a89598cbbd3
+      internalID: -4631193253987342027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockus_Zombie-02_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 235
+        width: 79
+        height: 134
+      alignment: 9
+      pivot: {x: 0.6496244, y: 0.9242549}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324cc5990a928274f9a30b67559df4df
+      internalID: 1559875080273682337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockus_Zombie-02_4
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 126
+        width: 154
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6143df45b05c0794f8a22dcb50da39f1
+      internalID: -9074112058077375688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockus_Zombie-02_5
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 5
+        width: 282
+        height: 357
+      alignment: 9
+      pivot: {x: 0.4880237, y: 0.12790483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b476bbfa301d3d47bc038a281b852ed
+      internalID: -1020170953038243299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockus_Zombie-02_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 99
+        width: 100
+        height: 111
+      alignment: 9
+      pivot: {x: 0.4774852, y: 0.9310289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754a8cc042e73474d8f84dd3cc180acd
+      internalID: 3602399602347784127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockus_Zombie-02_7
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 179
+        width: 87
+        height: 29
+      alignment: 9
+      pivot: {x: 0.26061696, y: 0.96582663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b541266b00a614ab8682a19e2c0c2b
+      internalID: 3155601337867504823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockus_Zombie-02_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 5
+        width: 62
+        height: 76
+      alignment: 9
+      pivot: {x: 0.49092138, y: 0.99621725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e93d9ea020b9948a5c4215c40e73da
+      internalID: 7383733709604624168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockus_Zombie-02_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 5
+        width: 61
+        height: 88
+      alignment: 9
+      pivot: {x: 0.49077243, y: 0.9925141}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea77c273afcbd6458ce845b6d61b26a
+      internalID: 8721022697656634754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockus_Zombie-02_10
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 11
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0308ff63d54fc84298abde46a0bc6d4
+      internalID: -2855571076695720085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockus_Zombie-02_11
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 12
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc6eb8055753d94a93442ce8b457761
+      internalID: -8268549823905791681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockus_Zombie-02_12
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 11
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48916b9bb374ca843b272f8806f61f94
+      internalID: 8307368174734522074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockus_Zombie-02_13
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 11
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213c71665c50eb143a33ea0b6244cdec
+      internalID: -977181095132984776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: 32651bbf8fea1a6428714551039b480f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2492755280509028193
+    second: CampesinoDefensaPlanta Ver02_0
+  - first:
+      213: 6142154928239337444
+    second: CampesinoDefensaPlanta Ver02_1
+  - first:
+      213: -4232245206549809555
+    second: CampesinoDefensaPlanta Ver02_2
+  - first:
+      213: -4664250300811787739
+    second: CampesinoDefensaPlanta Ver02_3
+  - first:
+      213: -3377310262519553804
+    second: CampesinoDefensaPlanta Ver02_4
+  - first:
+      213: 6458683484178087941
+    second: CampesinoDefensaPlanta Ver02_5
+  - first:
+      213: -3680525912588547468
+    second: CampesinoDefensaPlanta Ver02_6
+  - first:
+      213: -6608817143763276549
+    second: CampesinoDefensaPlanta Ver02_7
+  - first:
+      213: 1735055285651062261
+    second: CampesinoDefensaPlanta Ver02_8
+  - first:
+      213: -6815258062466334312
+    second: CampesinoDefensaPlanta Ver02_9
+  - first:
+      213: 7773062412688463093
+    second: CampesinoDefensaPlanta Ver02_10
+  - first:
+      213: -651930766040125854
+    second: CampesinoDefensaPlanta Ver02_11
+  - first:
+      213: 3494883318322426056
+    second: CampesinoDefensaPlanta Ver02_12
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CampesinoDefensaPlanta Ver02_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 380
+        width: 66
+        height: 120
+      alignment: 9
+      pivot: {x: 0.8240783, y: 0.9221545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2daed953574d1fe4d9f80c607c9ee7f4
+      internalID: -2492755280509028193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampesinoDefensaPlanta Ver02_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 237
+        width: 187
+        height: 263
+      alignment: 9
+      pivot: {x: 0.71672106, y: 0.23247491}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3555c8be669dcb4b9e585d247f5dd3a
+      internalID: 6142154928239337444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampesinoDefensaPlanta Ver02_2
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 115
+        width: 375
+        height: 385
+      alignment: 9
+      pivot: {x: 0.5240158, y: 0.08332793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66e9165ee9054d4da556ba530bf2ebf
+      internalID: -4232245206549809555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampesinoDefensaPlanta Ver02_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 233
+        width: 82
+        height: 140
+      alignment: 9
+      pivot: {x: 0.657879, y: 0.9141135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f34fa48b65dea42b38e7e02be720b1
+      internalID: -4664250300811787739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampesinoDefensaPlanta Ver02_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 101
+        height: 113
+      alignment: 9
+      pivot: {x: 0.45541602, y: 0.8785696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c394ec24307099f449de15116481a1b6
+      internalID: -3377310262519553804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampesinoDefensaPlanta Ver02_5
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 75
+        width: 169
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09ec5f1268d7674685539624672f198
+      internalID: 6458683484178087941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampesinoDefensaPlanta Ver02_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 4
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4daca37cdd13374ba7c2489526ddf4e
+      internalID: -3680525912588547468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampesinoDefensaPlanta Ver02_7
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 4
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b861b226bcc25b542939362323e87d64
+      internalID: -6608817143763276549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampesinoDefensaPlanta Ver02_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 4
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ced8013f22bc84b82107ef9a550f20
+      internalID: 1735055285651062261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampesinoDefensaPlanta Ver02_9
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 4
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078a322832185b642a9e28ba54253475
+      internalID: -6815258062466334312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampesinoDefensaPlanta Ver02_10
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 0
+        width: 88
+        height: 61
+      alignment: 9
+      pivot: {x: 0.46801794, y: 0.97059894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9126615b079cda64d8b5a24f3b0abe0f
+      internalID: 7773062412688463093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampesinoDefensaPlanta Ver02_11
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 68
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.98827547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360af7f95242404408bb6fa55273b7c6
+      internalID: -651930766040125854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampesinoDefensaPlanta Ver02_12
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 0
+        width: 68
+        height: 98
+      alignment: 9
+      pivot: {x: 0.4999991, y: 0.9996936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a59919c0d1b704684fa09f068841d3
+      internalID: 3494883318322426056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 85a4384c6b18f944a86927db5f66655d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

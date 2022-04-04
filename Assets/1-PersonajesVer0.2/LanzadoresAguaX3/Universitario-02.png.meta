@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: dc4029947ffc80e4396267303c4cf2d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4581101310180672994
+    second: Universitario-02_0
+  - first:
+      213: -2104366301100043447
+    second: Universitario-02_1
+  - first:
+      213: -5351539439761920791
+    second: Universitario-02_2
+  - first:
+      213: -313587422627772514
+    second: Universitario-02_3
+  - first:
+      213: 4211966784088107241
+    second: Universitario-02_4
+  - first:
+      213: 5220405515360162871
+    second: Universitario-02_5
+  - first:
+      213: 9051241433076686353
+    second: Universitario-02_6
+  - first:
+      213: -7508003599376492334
+    second: Universitario-02_7
+  - first:
+      213: 3028404347300692499
+    second: Universitario-02_8
+  - first:
+      213: -5415479647060493317
+    second: Universitario-02_9
+  - first:
+      213: -7296276024753890632
+    second: Universitario-02_10
+  - first:
+      213: -6740865710347477421
+    second: Universitario-02_11
+  - first:
+      213: -519048615151844908
+    second: Universitario-02_12
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Universitario-02_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 378
+        width: 69
+        height: 122
+      alignment: 9
+      pivot: {x: 0.809988, y: 0.9152339}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ab19dc9c8c20c4cb14af5d10882ce8
+      internalID: -4581101310180672994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universitario-02_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 203
+        width: 187
+        height: 297
+      alignment: 9
+      pivot: {x: 0.6956509, y: 0.3597556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc4d5b3f1f7b6446973107feb80b288
+      internalID: -2104366301100043447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universitario-02_2
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 121
+        width: 292
+        height: 373
+      alignment: 9
+      pivot: {x: 0.52120405, y: 0.050305363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843a07d1814800543a83aa3de956376c
+      internalID: -5351539439761920791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universitario-02_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 235
+        width: 81
+        height: 137
+      alignment: 9
+      pivot: {x: 0.6598282, y: 0.90674764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32881c065f08d004eabb660972f600cd
+      internalID: -313587422627772514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universitario-02_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 103
+        height: 114
+      alignment: 9
+      pivot: {x: 0.46174654, y: 0.9147485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64762fc8be2b221498ba1af72e2b2d7b
+      internalID: 4211966784088107241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universitario-02_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 56
+        width: 171
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac21a7a0a6586bc4c870e37e9f96be6a
+      internalID: 5220405515360162871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universitario-02_6
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 7
+        width: 67
+        height: 97
+      alignment: 9
+      pivot: {x: 0.49159855, y: 0.9816339}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1ceeaf18cadd5449cdb66ddf2223a7
+      internalID: 9051241433076686353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universitario-02_7
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 21
+        width: 88
+        height: 44
+      alignment: 9
+      pivot: {x: 0.35288545, y: 0.90936273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8818069b877160e4bad353fd78cef07c
+      internalID: -7508003599376492334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universitario-02_8
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 7
+        width: 68
+        height: 82
+      alignment: 9
+      pivot: {x: 0.4917221, y: 1.0010945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d469862c16a269419f119e134d23218
+      internalID: 3028404347300692499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universitario-02_9
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 10
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f844cade8a24be4fb0deefce95e10b4
+      internalID: -5415479647060493317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universitario-02_10
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 10
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f71dc5bce42604b8b8da11d453d7d2
+      internalID: -7296276024753890632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universitario-02_11
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 10
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410083d498c816c4ca8b6e01d862bf91
+      internalID: -6740865710347477421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universitario-02_12
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 10
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9777fbbfc887a42b69b3ac107b5073
+      internalID: -519048615151844908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 76f96d72609eea641b8e0b0ac6dc507e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

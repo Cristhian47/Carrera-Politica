@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: 658c58f2e40c14348aa389b2add66354
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6791151336851553112
+    second: Santrich_Zombie 1-02_0
+  - first:
+      213: 7596317935427128634
+    second: Santrich_Zombie 1-02_1
+  - first:
+      213: 2252169748721040754
+    second: Santrich_Zombie 1-02_2
+  - first:
+      213: 1092833205176597982
+    second: Santrich_Zombie 1-02_3
+  - first:
+      213: -7513009241914537822
+    second: Santrich_Zombie 1-02_4
+  - first:
+      213: -262510431394392720
+    second: Santrich_Zombie 1-02_5
+  - first:
+      213: 1780946662703222258
+    second: Santrich_Zombie 1-02_6
+  - first:
+      213: 1342625812085587408
+    second: Santrich_Zombie 1-02_7
+  - first:
+      213: -4038598619798477308
+    second: Santrich_Zombie 1-02_8
+  - first:
+      213: -291335482977075344
+    second: Santrich_Zombie 1-02_9
+  - first:
+      213: -6384427047749602866
+    second: Santrich_Zombie 1-02_10
+  - first:
+      213: 4783493242066264933
+    second: Santrich_Zombie 1-02_11
+  - first:
+      213: -4719865953555693915
+    second: Santrich_Zombie 1-02_12
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Santrich_Zombie 1-02_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 388
+        width: 78
+        height: 92
+      alignment: 9
+      pivot: {x: 0.8294069, y: 0.9034032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4513790f6bdfbd142b872d32caea4b87
+      internalID: 6791151336851553112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Santrich_Zombie 1-02_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 251
+        width: 193
+        height: 241
+      alignment: 9
+      pivot: {x: 0.624253, y: 0.25597462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a959df56acab1a846bf44f70777d627e
+      internalID: 7596317935427128634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Santrich_Zombie 1-02_2
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 126
+        width: 310
+        height: 366
+      alignment: 9
+      pivot: {x: 0.4760561, y: 0.077231154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf2210438d571f4a8db759531940489
+      internalID: 2252169748721040754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Santrich_Zombie 1-02_3
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 252
+        width: 70
+        height: 129
+      alignment: 9
+      pivot: {x: 0.6631349, y: 0.9381875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed452375edfafd40bfae0d8e99bfb72
+      internalID: 1092833205176597982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Santrich_Zombie 1-02_4
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 116
+        width: 99
+        height: 109
+      alignment: 9
+      pivot: {x: 0.46539566, y: 0.89810866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bbf90ac8b745d4bafe3c6f5c40ba1b
+      internalID: -7513009241914537822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Santrich_Zombie 1-02_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 102
+        width: 164
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20610389809eac04bab16de0a6fd99b9
+      internalID: -262510431394392720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Santrich_Zombie 1-02_6
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 6
+        width: 79
+        height: 33
+      alignment: 9
+      pivot: {x: 0.58673, y: 0.967158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bfd24b9cc3a634cb6fe27ecc7636b2
+      internalID: 1780946662703222258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Santrich_Zombie 1-02_7
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 3
+        width: 66
+        height: 81
+      alignment: 9
+      pivot: {x: 0.4913492, y: 0.9793341}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf151a98c78330649b783046909e7b0a
+      internalID: 1342625812085587408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Santrich_Zombie 1-02_8
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 70
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.98140746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b4d8ae7b12a3746b29e19e4725b9ee
+      internalID: -4038598619798477308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Santrich_Zombie 1-02_9
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 13
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f786469049f434bb4a46fa85ad9f01
+      internalID: -291335482977075344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Santrich_Zombie 1-02_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 24
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524d37fdb2028fa419cb214fda014bd6
+      internalID: -6384427047749602866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Santrich_Zombie 1-02_11
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 12
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4761882d01c16540a9d4fd9cd670b1a
+      internalID: 4783493242066264933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Santrich_Zombie 1-02_12
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 12
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e5b5fb28390c44aa3fa53dfd6fc17e
+      internalID: -4719865953555693915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

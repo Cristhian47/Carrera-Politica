@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: 6b4a5b213d163a54ba943381d79be5d6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1630362386126386478
+    second: "Ordon\u0303ezZombie-02_0"
+  - first:
+      213: 6664024800984696912
+    second: "Ordon\u0303ezZombie-02_1"
+  - first:
+      213: 2853568966599635842
+    second: "Ordon\u0303ezZombie-02_2"
+  - first:
+      213: -8322828154529207395
+    second: "Ordon\u0303ezZombie-02_3"
+  - first:
+      213: 5638324768820150757
+    second: "Ordon\u0303ezZombie-02_4"
+  - first:
+      213: 9155244982519755191
+    second: "Ordon\u0303ezZombie-02_5"
+  - first:
+      213: 7784492326246716859
+    second: "Ordon\u0303ezZombie-02_6"
+  - first:
+      213: 288517801923172680
+    second: "Ordon\u0303ezZombie-02_7"
+  - first:
+      213: 6491304454972345937
+    second: "Ordon\u0303ezZombie-02_8"
+  - first:
+      213: 3367280278353386241
+    second: "Ordon\u0303ezZombie-02_9"
+  - first:
+      213: -4232745342797399118
+    second: "Ordon\u0303ezZombie-02_10"
+  - first:
+      213: 8366808938682211242
+    second: "Ordon\u0303ezZombie-02_11"
+  - first:
+      213: 6056706884153055880
+    second: "Ordon\u0303ezZombie-02_12"
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Ordon\u0303ezZombie-02_0"
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 373
+        width: 63
+        height: 114
+      alignment: 9
+      pivot: {x: 0.82626975, y: 0.8956733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2e6030b90162a4988a1341affc369c
+      internalID: 1630362386126386478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ordon\u0303ezZombie-02_1"
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 252
+        width: 159
+        height: 242
+      alignment: 9
+      pivot: {x: 0.6544139, y: 0.3702332}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10240511651eae48a5ad543cf868a6e
+      internalID: 6664024800984696912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ordon\u0303ezZombie-02_2"
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 91
+        width: 323
+        height: 403
+      alignment: 9
+      pivot: {x: 0.45050406, y: 0.083459705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1261934602a7f6f4c8877df757147c6c
+      internalID: 2853568966599635842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ordon\u0303ezZombie-02_3"
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 240
+        width: 75
+        height: 127
+      alignment: 9
+      pivot: {x: 0.62942034, y: 0.91811293}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18f34ded5ffd074faf3e871c90acce8
+      internalID: -8322828154529207395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ordon\u0303ezZombie-02_4"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 111
+        width: 96
+        height: 106
+      alignment: 9
+      pivot: {x: 0.47026193, y: 0.89321625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ea38ac35f8cb94baad6dad0fca09c0
+      internalID: 5638324768820150757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ordon\u0303ezZombie-02_5"
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 103
+        width: 159
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70c55eb13f1f494e8d6f6ead7fa4a6e
+      internalID: 9155244982519755191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ordon\u0303ezZombie-02_6"
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1
+        width: 64
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5089216, y: 0.9781879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00cb24713745e245a528046d33d5e20
+      internalID: 7784492326246716859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ordon\u0303ezZombie-02_7"
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 3
+        width: 64
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5089216, y: 0.98940396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003c824a9ca022f42865dbb9e518cb4c
+      internalID: 288517801923172680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ordon\u0303ezZombie-02_8"
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 10
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d3cc56839436b49a43bf36c6a88949
+      internalID: 6491304454972345937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ordon\u0303ezZombie-02_9"
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 10
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3a6c4c0e9441944b143e70b9aca100
+      internalID: 3367280278353386241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ordon\u0303ezZombie-02_10"
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 10
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca048e03b5898c84b981acdec2eaeffa
+      internalID: -4232745342797399118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ordon\u0303ezZombie-02_11"
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 10
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8234d18caa056e428c2ddbe3bd2a44a
+      internalID: 8366808938682211242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ordon\u0303ezZombie-02_12"
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 12
+        width: 92
+        height: 35
+      alignment: 9
+      pivot: {x: 0.3324323, y: 0.9404637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba7ad6ef15538045b5309ac26c74bb8
+      internalID: 6056706884153055880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

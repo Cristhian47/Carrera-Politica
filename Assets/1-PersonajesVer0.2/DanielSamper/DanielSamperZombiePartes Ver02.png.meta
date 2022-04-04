@@ -1,0 +1,427 @@
+fileFormatVersion: 2
+guid: 839fb9d1ac502f1428974da80ab0a34f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3495444569508595665
+    second: DanielSamperZombiePartes Ver02_0
+  - first:
+      213: 8849917729646757536
+    second: DanielSamperZombiePartes Ver02_1
+  - first:
+      213: -2882221775311637556
+    second: DanielSamperZombiePartes Ver02_2
+  - first:
+      213: -226123737122992500
+    second: DanielSamperZombiePartes Ver02_3
+  - first:
+      213: 3139092025056087906
+    second: DanielSamperZombiePartes Ver02_4
+  - first:
+      213: -8105239479740374338
+    second: DanielSamperZombiePartes Ver02_6
+  - first:
+      213: -5811817616358783352
+    second: DanielSamperZombiePartes Ver02_7
+  - first:
+      213: -8216513456878404895
+    second: DanielSamperZombiePartes Ver02_8
+  - first:
+      213: -514667399622093661
+    second: DanielSamperZombiePartes Ver02_9
+  - first:
+      213: -5907334574590456899
+    second: DanielSamperZombiePartes Ver02_10
+  - first:
+      213: -8806221478263525807
+    second: DanielSamperZombiePartes Ver02_11
+  - first:
+      213: 2361316359601371830
+    second: DanielSamperZombiePartes Ver02_12
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DanielSamperZombiePartes Ver02_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 379
+        width: 64
+        height: 117
+      alignment: 9
+      pivot: {x: 0.82541084, y: 0.89930296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6707c54db21f94e4c8646104c87c639f
+      internalID: -3495444569508595665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielSamperZombiePartes Ver02_1
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 223
+        width: 181
+        height: 277
+      alignment: 9
+      pivot: {x: 0.64927, y: 0.28663662}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9562e8eba88a4a4292fa2956a3179af
+      internalID: 8849917729646757536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielSamperZombiePartes Ver02_2
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 140
+        width: 301
+        height: 328
+      alignment: 9
+      pivot: {x: 0.5112198, y: 0.055536363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96f577387bc43e429b1ea18d8423bc0
+      internalID: -2882221775311637556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielSamperZombiePartes Ver02_3
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 235
+        width: 80
+        height: 136
+      alignment: 9
+      pivot: {x: 0.6477542, y: 0.9097382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefa97945f6ea1f4696ff96fd1e33d15
+      internalID: -226123737122992500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielSamperZombiePartes Ver02_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 103
+        width: 99
+        height: 110
+      alignment: 9
+      pivot: {x: 0.44882974, y: 0.899128}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd0ce90cc371c6499bd776a4c2b1cef
+      internalID: 3139092025056087906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielSamperZombiePartes Ver02_6
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 2
+        width: 71
+        height: 103
+      alignment: 9
+      pivot: {x: 0.49999958, y: 0.9809013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7be0bbfdfd51dc4ebbcb54770ba3ad6
+      internalID: -8105239479740374338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielSamperZombiePartes Ver02_7
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 104
+        height: 65
+      alignment: 9
+      pivot: {x: 0.2510367, y: 0.6212346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42eca6c21c81f7040bc4bb7120f48a1f
+      internalID: -5811817616358783352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielSamperZombiePartes Ver02_8
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 5
+        width: 66
+        height: 82
+      alignment: 9
+      pivot: {x: 0.49999952, y: 0.99423003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74ab9149235940448220ec748cb1721
+      internalID: -8216513456878404895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielSamperZombiePartes Ver02_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 15
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ada8516c687e1641a0271006d5cde63
+      internalID: -514667399622093661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielSamperZombiePartes Ver02_10
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 27
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00525a4f4fcfd644eb9b1bf8c1e9530f
+      internalID: -5907334574590456899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielSamperZombiePartes Ver02_11
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 15
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3245c9ec1a5b6a4386401ae10ee7bdd
+      internalID: -8806221478263525807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielSamperZombiePartes Ver02_12
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 15
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7ba96fa74031a448f8c9bcecfbcfc7
+      internalID: 2361316359601371830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1c05cb5551cdcf940bf8c20f0e590edf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

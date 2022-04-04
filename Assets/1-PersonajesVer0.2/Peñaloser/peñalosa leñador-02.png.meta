@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: b71ebd7f328b7744ea810cfc65f36e44
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6112013738089426084
+    second: "pe\xF1alosa le\xF1ador-02_0"
+  - first:
+      213: 3863032303366583153
+    second: "pe\xF1alosa le\xF1ador-02_1"
+  - first:
+      213: 362266204084431386
+    second: "pe\xF1alosa le\xF1ador-02_2"
+  - first:
+      213: 2802655932930855061
+    second: "pe\xF1alosa le\xF1ador-02_3"
+  - first:
+      213: -6552272359855007855
+    second: "pe\xF1alosa le\xF1ador-02_4"
+  - first:
+      213: -1597800503763077726
+    second: "pe\xF1alosa le\xF1ador-02_5"
+  - first:
+      213: -1058918402245312422
+    second: "pe\xF1alosa le\xF1ador-02_6"
+  - first:
+      213: 7832027595731433808
+    second: "pe\xF1alosa le\xF1ador-02_7"
+  - first:
+      213: -3991134756686939626
+    second: "pe\xF1alosa le\xF1ador-02_8"
+  - first:
+      213: 2447173591533951875
+    second: "pe\xF1alosa le\xF1ador-02_9"
+  - first:
+      213: -3665624685921120297
+    second: "pe\xF1alosa le\xF1ador-02_10"
+  - first:
+      213: -7189466708672998632
+    second: "pe\xF1alosa le\xF1ador-02_11"
+  - first:
+      213: 2829397992249199660
+    second: "pe\xF1alosa le\xF1ador-02_12"
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "pe\xF1alosa le\xF1ador-02_0"
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 375
+        width: 65
+        height: 116
+      alignment: 9
+      pivot: {x: 0.82501465, y: 0.91346216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d97122f02fa4f4290c6d5a20290c6d
+      internalID: -6112013738089426084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pe\xF1alosa le\xF1ador-02_1"
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 300
+        width: 163
+        height: 194
+      alignment: 9
+      pivot: {x: 0.7066708, y: 0.07029897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870c26597d1a9554aaf37d0b76e2e0b9
+      internalID: 3863032303366583153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pe\xF1alosa le\xF1ador-02_2"
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 78
+        width: 300
+        height: 416
+      alignment: 9
+      pivot: {x: 0.4467094, y: 0.07451615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bd739a5dbf40f4f8e4fc0ceb703109
+      internalID: 362266204084431386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pe\xF1alosa le\xF1ador-02_3"
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 227
+        width: 84
+        height: 133
+      alignment: 9
+      pivot: {x: 0.62235105, y: 0.937888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7801ae640dfcbaa44b82c55838d86069
+      internalID: 2802655932930855061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pe\xF1alosa le\xF1ador-02_4"
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 149
+        width: 164
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2a4b800a4e9124589e8e986788b6d8
+      internalID: -6552272359855007855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pe\xF1alosa le\xF1ador-02_5"
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 103
+        width: 98
+        height: 109
+      alignment: 9
+      pivot: {x: 0.46504265, y: 0.91382354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681122602ab7709469905080807edc4c
+      internalID: -1597800503763077726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pe\xF1alosa le\xF1ador-02_6"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 5
+        width: 65
+        height: 80
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.9924628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9005d6bad3fa5de47b95b736a05b32a2
+      internalID: -1058918402245312422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pe\xF1alosa le\xF1ador-02_7"
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 5
+        width: 64
+        height: 93
+      alignment: 9
+      pivot: {x: 0.517843, y: 0.9911582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f3a33b15356944bb5cfdab5919400b
+      internalID: 7832027595731433808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pe\xF1alosa le\xF1ador-02_8"
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 12
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de279a039941db940bcde8c750e89b42
+      internalID: -3991134756686939626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pe\xF1alosa le\xF1ador-02_9"
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 13
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438778744ef76de4591a763deb24833e
+      internalID: 2447173591533951875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pe\xF1alosa le\xF1ador-02_10"
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 12
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac12c0e2a3f8d4439d829d460e2df53
+      internalID: -3665624685921120297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pe\xF1alosa le\xF1ador-02_11"
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 12
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f425c2b1c22ebd44b4892818bd77d93
+      internalID: -7189466708672998632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pe\xF1alosa le\xF1ador-02_12"
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 13
+        width: 87
+        height: 52
+      alignment: 9
+      pivot: {x: 0.34905338, y: 0.92822874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f3be0a94b923543b1d0ebfb23b88cb
+      internalID: 2829397992249199660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

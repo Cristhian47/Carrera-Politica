@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: dd7f813db4b7eea47a631dc987a44853
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8712373917369070539
+    second: deportista FEM-02_0
+  - first:
+      213: -6763561590535046437
+    second: deportista FEM-02_1
+  - first:
+      213: -3391004971724914868
+    second: deportista FEM-02_2
+  - first:
+      213: 4795000218612771114
+    second: deportista FEM-02_3
+  - first:
+      213: -7998039316146039735
+    second: deportista FEM-02_4
+  - first:
+      213: -5508773848107263851
+    second: deportista FEM-02_5
+  - first:
+      213: -7439919190333928914
+    second: deportista FEM-02_6
+  - first:
+      213: -5745089742853122928
+    second: deportista FEM-02_7
+  - first:
+      213: -5591127117996231738
+    second: deportista FEM-02_8
+  - first:
+      213: 8410920614201994193
+    second: deportista FEM-02_9
+  - first:
+      213: -4520654411215495306
+    second: deportista FEM-02_10
+  - first:
+      213: -4371257725214572351
+    second: deportista FEM-02_11
+  - first:
+      213: -4567725410504969504
+    second: deportista FEM-02_12
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: deportista FEM-02_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 375
+        width: 66
+        height: 119
+      alignment: 9
+      pivot: {x: 0.8070216, y: 0.90678185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c28190d6049b84abc8e9a51e1eac59
+      internalID: -8712373917369070539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deportista FEM-02_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 227
+        width: 175
+        height: 267
+      alignment: 9
+      pivot: {x: 0.6801192, y: 0.26388848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3cd2eabef5d5f4eaf7a28b5e73fec9
+      internalID: -6763561590535046437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deportista FEM-02_2
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 147
+        width: 371
+        height: 353
+      alignment: 9
+      pivot: {x: 0.6623381, y: 0.055123087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9523faedfb57494f89bcf1fd9b2910b
+      internalID: -3391004971724914868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deportista FEM-02_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 237
+        width: 71
+        height: 131
+      alignment: 9
+      pivot: {x: 0.6347724, y: 0.9210806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc72e9c00362234abb5e294e6efe710
+      internalID: 4795000218612771114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deportista FEM-02_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 98
+        width: 100
+        height: 111
+      alignment: 9
+      pivot: {x: 0.46622765, y: 0.90567416}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633293de4e26dfa41aed6b64207ef104
+      internalID: -7998039316146039735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deportista FEM-02_5
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 83
+        width: 167
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68a1c04c7421eb4eb4320938d8a5f0e
+      internalID: -5508773848107263851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deportista FEM-02_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 46
+        width: 95
+        height: 37
+      alignment: 9
+      pivot: {x: 0.20375118, y: 0.9259586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec8610e44c5f7140acac4cf6a876445
+      internalID: -7439919190333928914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deportista FEM-02_7
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 0
+        width: 67
+        height: 83
+      alignment: 9
+      pivot: {x: 0.49159855, y: 0.99505705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a907116e0840d4a8f20e1276bb824b
+      internalID: -5745089742853122928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deportista FEM-02_8
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 68
+        height: 98
+      alignment: 9
+      pivot: {x: 0.49999955, y: 0.9996936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033cb735009e4834a869790fdbed45fe
+      internalID: -5591127117996231738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deportista FEM-02_9
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 15
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c008fb88684f6c4a99652855178856b
+      internalID: 8410920614201994193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deportista FEM-02_10
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 15
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3022ef1159fe084db0c3ff4d920951b
+      internalID: -4520654411215495306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deportista FEM-02_11
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 15
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30c6a958a9d4b84b8d584c5353a1a42
+      internalID: -4371257725214572351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deportista FEM-02_12
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 15
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536af84299485b443aa988909cd3ebc4
+      internalID: -4567725410504969504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 79a309faf73edcd46be25bdcc3d47a0a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

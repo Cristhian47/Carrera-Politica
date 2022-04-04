@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: 0c143a0078933814784190c6a364314a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6210403182102182137
+    second: NestorH_0
+  - first:
+      213: 3519652412325446823
+    second: NestorH_1
+  - first:
+      213: 7069496038429898259
+    second: NestorH_2
+  - first:
+      213: -1724861573909749614
+    second: NestorH_3
+  - first:
+      213: 2298168539929062193
+    second: NestorH_4
+  - first:
+      213: 3102904540389587094
+    second: NestorH_5
+  - first:
+      213: 4819236066568774510
+    second: NestorH_6
+  - first:
+      213: 3003232907945583767
+    second: NestorH_7
+  - first:
+      213: -4296760140072202282
+    second: NestorH_8
+  - first:
+      213: -3384096448323554780
+    second: NestorH_9
+  - first:
+      213: -3665180181795393611
+    second: NestorH_10
+  - first:
+      213: -3276590309902367522
+    second: NestorH_11
+  - first:
+      213: 4691899746698778676
+    second: NestorH_12
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NestorH_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 375
+        width: 65
+        height: 116
+      alignment: 9
+      pivot: {x: 0.83264005, y: 0.91938466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc0cde238598794392064ae6427cf21
+      internalID: 6210403182102182137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NestorH_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 243
+        width: 165
+        height: 249
+      alignment: 9
+      pivot: {x: 0.68200016, y: 0.3070359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091de0c1eac83834cb75b7cc0903168e
+      internalID: 3519652412325446823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NestorH_2
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 104
+        width: 312
+        height: 388
+      alignment: 9
+      pivot: {x: 0.41722488, y: 0.09289181}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be811ac1d116af14fa47be406725a6bf
+      internalID: 7069496038429898259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NestorH_3
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 240
+        width: 77
+        height: 130
+      alignment: 9
+      pivot: {x: 0.6560002, y: 0.92966026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43b3b6125c53c84a9dae05c18dffad2
+      internalID: -1724861573909749614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NestorH_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 108
+        width: 98
+        height: 108
+      alignment: 9
+      pivot: {x: 0.46935707, y: 0.90596133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c7ad34a49fb3f458d2eb2d441a2ea9
+      internalID: 2298168539929062193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NestorH_5
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 94
+        width: 163
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6ec16b81c56a24c9039c6f8d65bc7b
+      internalID: 3102904540389587094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NestorH_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 7
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525b45d2d0233e6409f39434ed7df704
+      internalID: 4819236066568774510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NestorH_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 7
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2860d4acfc8504f98ab895b45ebc35
+      internalID: 3003232907945583767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NestorH_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 7
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d08764cd5f43f4382a49d735f63bd7
+      internalID: -4296760140072202282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NestorH_9
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 7
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d3968076ac4e045a662494ba401c3e
+      internalID: -3384096448323554780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NestorH_10
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 14
+        width: 94
+        height: 36
+      alignment: 9
+      pivot: {x: 0.32109785, y: 0.93376744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58e4852605241849b03c25423c6aeda
+      internalID: -3665180181795393611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NestorH_11
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 7
+        width: 66
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5090998, y: 0.9745487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62eafdffe0797d4080559e42ca0b051
+      internalID: -3276590309902367522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NestorH_12
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 7
+        width: 65
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5184796, y: 0.9855917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1ac3a0feca7964985f858216deda51
+      internalID: 4691899746698778676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

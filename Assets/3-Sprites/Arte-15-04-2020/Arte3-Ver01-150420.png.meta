@@ -1,0 +1,706 @@
+fileFormatVersion: 2
+guid: 0284161eebb8b584096dce39e26bd6d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1338801663257883687
+    second: Arte3-Ver01-150420_0
+  - first:
+      213: 1337388357718325799
+    second: Arte3-Ver01-150420_1
+  - first:
+      213: -5062168484523542629
+    second: Arte3-Ver01-150420_2
+  - first:
+      213: -1601392033750909014
+    second: Arte3-Ver01-150420_3
+  - first:
+      213: -5419131106847117838
+    second: Arte3-Ver01-150420_4
+  - first:
+      213: -4929277264291979272
+    second: Arte3-Ver01-150420_5
+  - first:
+      213: 6550522629319323579
+    second: Arte3-Ver01-150420_7
+  - first:
+      213: -8646278463917216075
+    second: Arte3-Ver01-150420_10
+  - first:
+      213: -6711664302491131770
+    second: Arte3-Ver01-150420_11
+  - first:
+      213: -7824853012818817787
+    second: Arte3-Ver01-150420_12
+  - first:
+      213: 7945708663340941685
+    second: Arte3-Ver01-150420_13
+  - first:
+      213: -4260979839098314037
+    second: Arte3-Ver01-150420_14
+  - first:
+      213: -4462429630909303016
+    second: Arte3-Ver01-150420_15
+  - first:
+      213: -4513368970357980652
+    second: Arte3-Ver01-150420_16
+  - first:
+      213: -4698991059832932637
+    second: Arte3-Ver01-150420_17
+  - first:
+      213: -5833315138249524241
+    second: Arte3-Ver01-150420_18
+  - first:
+      213: 5463059728355807070
+    second: Arte3-Ver01-150420_19
+  - first:
+      213: -5340653998011760053
+    second: Arte3-Ver01-150420_20
+  - first:
+      213: -7585584790891348685
+    second: Arte3-Ver01-150420_21
+  - first:
+      213: -3062663351383613471
+    second: Arte3-Ver01-150420_22
+  - first:
+      213: 5819284758229326801
+    second: Arte3-Ver01-150420_23
+  - first:
+      213: 7330509120203821682
+    second: Arte3-Ver01-150420_24
+  - first:
+      213: -5746877734655877360
+    second: Arte3-Ver01-150420_25
+  - first:
+      213: -9163137217965229546
+    second: Arte3-Ver01-150420_26
+  - first:
+      213: 1613654456614848803
+    second: Arte3-Ver01-150420_27
+  - first:
+      213: 7552883719766634609
+    second: Arte3-Ver01-150420_28
+  - first:
+      213: 4902026565370433467
+    second: Arte3-Ver01-150420_29
+  - first:
+      213: -3293742031095886614
+    second: Arte3-Ver01-150420_30
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arte3-Ver01-150420_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1180
+        width: 1614
+        height: 808
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7bdce9c202a84419e45762938936ed
+      internalID: -1338801663257883687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte3-Ver01-150420_3
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 1192
+        width: 288
+        height: 782
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd58ca183d1b824aa31696924a4534b
+      internalID: -1601392033750909014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte3-Ver01-150420_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 892
+        width: 272
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7011dce833aae041879acc82d659396
+      internalID: -8646278463917216075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte3-Ver01-150420_11
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 895
+        width: 278
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fdfaa6b9c9d1c4aa8f6ee5020e1721
+      internalID: -6711664302491131770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte3-Ver01-150420_12
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 884
+        width: 282
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec95a360c4a6241489a05e5c89bef78c
+      internalID: -7824853012818817787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte3-Ver01-150420_13
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 884
+        width: 284
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39863a0565dff494a8114eac5b3c03da
+      internalID: 7945708663340941685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte3-Ver01-150420_14
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 604
+        width: 407
+        height: 526
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0413a4e41cf90f14d8ab4acb40cdd9e8
+      internalID: -4260979839098314037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte3-Ver01-150420_15
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 604
+        width: 408
+        height: 526
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6dc5f92cff232f4cae5c9c3cdc6cd94
+      internalID: -4462429630909303016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte3-Ver01-150420_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 600
+        width: 277
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071dda9d8f525d941a02bb985d3c2d4e
+      internalID: -4513368970357980652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte3-Ver01-150420_17
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 593
+        width: 279
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1591f87af324f45809d124ce570992
+      internalID: -4698991059832932637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte3-Ver01-150420_18
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 583
+        width: 283
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ebfe45deaea0d49b21105a24dc5551
+      internalID: -5833315138249524241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte3-Ver01-150420_19
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 588
+        width: 275
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618a60daed4b35c4caf2cbcda771f18b
+      internalID: 5463059728355807070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte3-Ver01-150420_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 307
+        width: 277
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d9319f8455f604a8af9fa09e5eba19
+      internalID: -5340653998011760053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte3-Ver01-150420_21
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 298
+        width: 273
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76ea49e37489bf4b8545f5b97e171f5
+      internalID: -7585584790891348685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte3-Ver01-150420_22
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 302
+        width: 275
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102194703754dfb4c8bcec41e2fbe4ca
+      internalID: -3062663351383613471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte3-Ver01-150420_23
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 302
+        width: 277
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6eb7cf137a83e40bbb0b8006911bdb
+      internalID: 5819284758229326801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte3-Ver01-150420_24
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 37
+        width: 407
+        height: 526
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb3711583b02bc4788a4e664532e6af
+      internalID: 7330509120203821682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte3-Ver01-150420_25
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 288
+        width: 4
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd3fd1c44fe4d544bd305315f077483
+      internalID: -5746877734655877360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte3-Ver01-150420_26
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 37
+        width: 404
+        height: 527
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db24599d024794d44b83d83e40f80d34
+      internalID: -9163137217965229546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte3-Ver01-150420_27
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 9
+        width: 277
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6658de52cc80d6468eb6fe2ee512fef
+      internalID: 1613654456614848803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte3-Ver01-150420_28
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 8
+        width: 277
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb692a71b44abfc438a469c1ca6e31d6
+      internalID: 7552883719766634609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte3-Ver01-150420_29
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 9
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350e1313dfd67d640b61e4ab67b92d8e
+      internalID: 4902026565370433467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arte3-Ver01-150420_30
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 10
+        width: 276
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f8fa29d8a753049914f3296d599749
+      internalID: -3293742031095886614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

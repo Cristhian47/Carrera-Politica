@@ -1,0 +1,475 @@
+fileFormatVersion: 2
+guid: 42f15eb9afeb7a14bb31e7181cec41d1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2287627677680801582
+    second: lideresa social-02_0
+  - first:
+      213: 6873271315141280803
+    second: lideresa social-02_1
+  - first:
+      213: 7755136945938714984
+    second: lideresa social-02_2
+  - first:
+      213: -1621719709600261358
+    second: lideresa social-02_3
+  - first:
+      213: -8434516548462022040
+    second: lideresa social-02_4
+  - first:
+      213: 8151996103270320416
+    second: lideresa social-02_5
+  - first:
+      213: 3323033368968072408
+    second: lideresa social-02_6
+  - first:
+      213: -8262652091988631470
+    second: lideresa social-02_7
+  - first:
+      213: -2861757129621703304
+    second: lideresa social-02_8
+  - first:
+      213: 8189052414788615797
+    second: lideresa social-02_9
+  - first:
+      213: -7088258171751705897
+    second: lideresa social-02_10
+  - first:
+      213: -4596977741451016882
+    second: lideresa social-02_11
+  - first:
+      213: -8096329555482525973
+    second: lideresa social-02_12
+  - first:
+      213: -955799923087097743
+    second: lideresa social-02_13
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lideresa social-02_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 375
+        width: 63
+        height: 114
+      alignment: 9
+      pivot: {x: 0.8037727, y: 0.89006096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4595895e9b4dbda4b8442eb2e5f5d331
+      internalID: 2287627677680801582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lideresa social-02_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 263
+        width: 171
+        height: 221
+      alignment: 9
+      pivot: {x: 0.6250826, y: 0.21474323}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b0bb4530cbf3e4a88739642ee11432
+      internalID: 6873271315141280803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lideresa social-02_2
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 155
+        width: 284
+        height: 336
+      alignment: 9
+      pivot: {x: 0.531711, y: 0.06276835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39e11fd64a89b94e8eaaa7192706e49
+      internalID: 7755136945938714984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lideresa social-02_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 242
+        width: 71
+        height: 126
+      alignment: 9
+      pivot: {x: 0.6189168, y: 0.91098654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54178e9ad3042c048893b8202f57ab12
+      internalID: -1621719709600261358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lideresa social-02_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 108
+        width: 97
+        height: 108
+      alignment: 9
+      pivot: {x: 0.48259157, y: 0.8804607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6891f9aa0fa8cd34588fcee3ed847496
+      internalID: -8434516548462022040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lideresa social-02_5
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 102
+        width: 160
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99ad4be84e3ddc40a7c6d69469495c8
+      internalID: 8151996103270320416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lideresa social-02_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 11
+        width: 99
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91b7b5698436e1479dda7430de4e053
+      internalID: 3323033368968072408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lideresa social-02_7
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 12
+        width: 98
+        height: 29
+      alignment: 9
+      pivot: {x: 0.2817431, y: 0.9852362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec9b72cf5edb974b9664a502377bb54
+      internalID: -8262652091988631470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lideresa social-02_8
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 9
+        width: 47
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5119759, y: 0.99720496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efedd761eabb194aa9a62115a1104f2
+      internalID: -2861757129621703304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lideresa social-02_9
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 8
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.492182, y: 1.001019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bfbf8a3e66b2140ac0bafa41856179
+      internalID: 8189052414788615797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lideresa social-02_10
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 13
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628eca35c1339f042ab2e957faa7c633
+      internalID: -7088258171751705897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lideresa social-02_11
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 13
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5841dc2b652c65a4a937cd608b9a556b
+      internalID: -4596977741451016882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lideresa social-02_12
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 13
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59147ac826d4b5b4590baa5131c8994a
+      internalID: -8096329555482525973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lideresa social-02_13
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 13
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efec0353519124a4a924a6d6e3edba30
+      internalID: -955799923087097743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4dde9e1b76dcdcf4d8ee4facdeba3288
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

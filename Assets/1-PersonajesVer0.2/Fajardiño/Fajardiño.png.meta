@@ -1,0 +1,427 @@
+fileFormatVersion: 2
+guid: cb70527a8c5ada74ea7107d6b11636ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4016133771013847921
+    second: "Fajardi\xF1o_0"
+  - first:
+      213: -2668852714484221548
+    second: "Fajardi\xF1o_1"
+  - first:
+      213: 8120686957342506435
+    second: "Fajardi\xF1o_2"
+  - first:
+      213: -641524844382857904
+    second: "Fajardi\xF1o_3"
+  - first:
+      213: -6476603896546425104
+    second: "Fajardi\xF1o_4"
+  - first:
+      213: -4952615244827303299
+    second: "Fajardi\xF1o_5"
+  - first:
+      213: -1119181959552081372
+    second: "Fajardi\xF1o_6"
+  - first:
+      213: 6541297154989230987
+    second: "Fajardi\xF1o_7"
+  - first:
+      213: -1106261561059833611
+    second: "Fajardi\xF1o_8"
+  - first:
+      213: -3696253714588735396
+    second: "Fajardi\xF1o_9"
+  - first:
+      213: -4530879437213255789
+    second: "Fajardi\xF1o_10"
+  - first:
+      213: 1225776426202805558
+    second: "Fajardi\xF1o_11"
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Fajardi\xF1o_0"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 362
+        width: 64
+        height: 114
+      alignment: 9
+      pivot: {x: 0.8374728, y: 0.9052309}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffdba75d887e3742967723d488cdf6f
+      internalID: 4016133771013847921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fajardi\xF1o_1"
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 201
+        width: 197
+        height: 257
+      alignment: 9
+      pivot: {x: 0.64313567, y: 0.2969035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0825f9a1ab5d5438be54f33313630a
+      internalID: -2668852714484221548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fajardi\xF1o_2"
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 131
+        width: 318
+        height: 346
+      alignment: 9
+      pivot: {x: 0.5433927, y: 0.05610498}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35bd7a9b3461e044a4f4be2a0b48963
+      internalID: 8120686957342506435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fajardi\xF1o_3"
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 212
+        width: 78
+        height: 131
+      alignment: 9
+      pivot: {x: 0.64614207, y: 0.9213406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ed25973ff4b5f4cbf85b565f6e8163
+      internalID: -641524844382857904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fajardi\xF1o_4"
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 179
+        width: 63
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.91287035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457500a23d4c8a34d9e5b790761a0c60
+      internalID: -6476603896546425104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fajardi\xF1o_5"
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 84
+        width: 93
+        height: 104
+      alignment: 9
+      pivot: {x: 0.4548423, y: 0.9038142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39be0aa78d1b04c41954905193f1f8bf
+      internalID: -4952615244827303299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fajardi\xF1o_6"
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 44
+        width: 158
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49755e383260fce4e9255ae79d491a26
+      internalID: -1119181959552081372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fajardi\xF1o_7"
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 88
+        width: 63
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5095229, y: 0.89996827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61a415365b83a24ca8a9eadd59b66d2
+      internalID: 6541297154989230987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fajardi\xF1o_8"
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 35
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8293c6890cefc4c95cd7b53a9fda44
+      internalID: -1106261561059833611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fajardi\xF1o_9"
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 35
+        width: 100
+        height: 34
+      alignment: 9
+      pivot: {x: 0.44600433, y: 0.85291314}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cad497216cc934394a89b9f76b9d4b
+      internalID: -3696253714588735396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fajardi\xF1o_10"
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 35
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4444177c0d647fe4ea9d563b48cf726b
+      internalID: -4530879437213255789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fajardi\xF1o_11"
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 35
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af93c90470441a54da70378853e89356
+      internalID: 1225776426202805558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

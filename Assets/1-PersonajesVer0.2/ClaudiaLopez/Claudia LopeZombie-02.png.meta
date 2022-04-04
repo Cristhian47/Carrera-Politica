@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: c153f8496ae828a4fb3807f4cd693bd9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6056949655456080534
+    second: Claudia LopeZombie-02_0
+  - first:
+      213: 2788866041111988089
+    second: Claudia LopeZombie-02_1
+  - first:
+      213: 1943494733321323844
+    second: Claudia LopeZombie-02_2
+  - first:
+      213: 1264614796474038784
+    second: Claudia LopeZombie-02_3
+  - first:
+      213: -3917611083342889596
+    second: Claudia LopeZombie-02_4
+  - first:
+      213: 1320025354678009529
+    second: Claudia LopeZombie-02_5
+  - first:
+      213: 2965488395450084435
+    second: Claudia LopeZombie-02_6
+  - first:
+      213: -4898402663050168323
+    second: Claudia LopeZombie-02_7
+  - first:
+      213: 7685962580187724308
+    second: Claudia LopeZombie-02_8
+  - first:
+      213: -1315909234785492911
+    second: Claudia LopeZombie-02_9
+  - first:
+      213: 5396650873877736714
+    second: Claudia LopeZombie-02_10
+  - first:
+      213: 2249518899278712457
+    second: Claudia LopeZombie-02_11
+  - first:
+      213: 3520711451176402249
+    second: Claudia LopeZombie-02_12
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Claudia LopeZombie-02_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 371
+        width: 65
+        height: 120
+      alignment: 9
+      pivot: {x: 0.8377236, y: 0.9127734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d4e14405e5b6d48829cfce192f00dc
+      internalID: 6056949655456080534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claudia LopeZombie-02_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 262
+        width: 181
+        height: 228
+      alignment: 9
+      pivot: {x: 0.66170925, y: 0.24325094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2d461150cfa004391ba9500de393d9
+      internalID: 2788866041111988089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claudia LopeZombie-02_2
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 126
+        width: 293
+        height: 355
+      alignment: 9
+      pivot: {x: 0.47310495, y: 0.05762948}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fca70d0d945434a8844d02f17ff472
+      internalID: 1943494733321323844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claudia LopeZombie-02_3
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 224
+        width: 81
+        height: 140
+      alignment: 9
+      pivot: {x: 0.65287906, y: 0.9141137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cffe1c20412ce43959bb74d973f8dc
+      internalID: 1264614796474038784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claudia LopeZombie-02_4
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 105
+        width: 165
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8bb3e737dd8df4b81673e623cbbcb7
+      internalID: -3917611083342889596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claudia LopeZombie-02_5
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 90
+        width: 99
+        height: 113
+      alignment: 9
+      pivot: {x: 0.46588647, y: 0.89849436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d468f5f44f8a948ba17f671018e62b
+      internalID: 1320025354678009529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claudia LopeZombie-02_6
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 4
+        width: 67
+        height: 98
+      alignment: 9
+      pivot: {x: 0.49159855, y: 0.98820627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9319970d1161749a4392caa09364f2
+      internalID: 2965488395450084435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claudia LopeZombie-02_7
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 11
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188ed45cf2e926b44bb4931851ae8295
+      internalID: -4898402663050168323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claudia LopeZombie-02_8
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 11
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1590fa2e0aa24d4ba82c7b7be218ff7
+      internalID: 7685962580187724308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claudia LopeZombie-02_9
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 3
+        width: 108
+        height: 36
+      alignment: 9
+      pivot: {x: 0.31237552, y: 0.95342606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8fe2327d810504381be487890ced44
+      internalID: -1315909234785492911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claudia LopeZombie-02_10
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 4
+        width: 67
+        height: 83
+      alignment: 9
+      pivot: {x: 0.49999955, y: 0.98827535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63466cf5ecdef5547aed6c7e1406359e
+      internalID: 5396650873877736714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claudia LopeZombie-02_11
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 12
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3a4183e19677c4b91169e2bf5e4b17
+      internalID: 2249518899278712457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claudia LopeZombie-02_12
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 12
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce619b3f0d9f3a46afd0277172c4dfc
+      internalID: 3520711451176402249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

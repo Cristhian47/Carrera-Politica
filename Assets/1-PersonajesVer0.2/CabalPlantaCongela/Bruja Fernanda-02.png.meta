@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: b39a67f6dfc34bc4fb18f78bbcf6f1fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9084191265449774550
+    second: Bruja Fernanda-02_0
+  - first:
+      213: 4328863793227995885
+    second: Bruja Fernanda-02_1
+  - first:
+      213: 3717291132477564952
+    second: Bruja Fernanda-02_2
+  - first:
+      213: -8395297665497948800
+    second: Bruja Fernanda-02_3
+  - first:
+      213: -1655675430898572251
+    second: Bruja Fernanda-02_4
+  - first:
+      213: -5744346035364502473
+    second: Bruja Fernanda-02_5
+  - first:
+      213: 7548074980170382550
+    second: Bruja Fernanda-02_6
+  - first:
+      213: 5742223303084056563
+    second: Bruja Fernanda-02_7
+  - first:
+      213: 1301725700625943570
+    second: Bruja Fernanda-02_8
+  - first:
+      213: -7596184804072707572
+    second: Bruja Fernanda-02_9
+  - first:
+      213: 8701826669035247317
+    second: Bruja Fernanda-02_10
+  - first:
+      213: 8235908793961240452
+    second: Bruja Fernanda-02_11
+  - first:
+      213: -2383224945647901421
+    second: Bruja Fernanda-02_12
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bruja Fernanda-02_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 371
+        width: 65
+        height: 116
+      alignment: 9
+      pivot: {x: 0.77710664, y: 0.89304036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0691c9ea7b1bc8947aa743de86cf505f
+      internalID: 9084191265449774550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruja Fernanda-02_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 209
+        width: 157
+        height: 290
+      alignment: 9
+      pivot: {x: 0.6254812, y: 0.30590588}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d396c1bcae31b44b83151b0704a021
+      internalID: 4328863793227995885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruja Fernanda-02_2
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 93
+        width: 370
+        height: 407
+      alignment: 9
+      pivot: {x: 0.5517232, y: 0.14872311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05fbb68bf822b547af00686fc19850e
+      internalID: 3717291132477564952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruja Fernanda-02_3
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 236
+        width: 79
+        height: 129
+      alignment: 9
+      pivot: {x: 0.66387427, y: 0.9101553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddde6e2779eadd4dbfd0d8d0930f4b5
+      internalID: -8395297665497948800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruja Fernanda-02_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 105
+        width: 96
+        height: 108
+      alignment: 9
+      pivot: {x: 0.4589572, y: 0.8752487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7f68cec561623478a94c8ff9bc17dd
+      internalID: -1655675430898572251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruja Fernanda-02_5
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 142
+        width: 114
+        height: 35
+      alignment: 9
+      pivot: {x: 0.2728756, y: 0.9502986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16efc9f63bcf77748a7ccdda50015281
+      internalID: -5744346035364502473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruja Fernanda-02_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 282
+        height: 93
+      alignment: 9
+      pivot: {x: 0.88323253, y: 0.5726289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b675c3bab1232f4c8e243ffdf42e6a8
+      internalID: 7548074980170382550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruja Fernanda-02_7
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 64
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5087948, y: 0.98449874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a8b1badcca3c147a44b49920a8f657
+      internalID: 5742223303084056563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruja Fernanda-02_8
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 62
+        height: 92
+      alignment: 9
+      pivot: {x: 0.4909205, y: 0.995573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff803dc29b108545b587e09c6150fd2
+      internalID: 1301725700625943570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruja Fernanda-02_9
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 7
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e025b879f138b8741a561f04868ca560
+      internalID: -7596184804072707572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruja Fernanda-02_10
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 7
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4058d468945096d42bea5b2156b6ff10
+      internalID: 8701826669035247317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruja Fernanda-02_11
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 7
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a37b9fa85a07684188de04e108b9f0f
+      internalID: 8235908793961240452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruja Fernanda-02_12
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 7
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45559464407c9a349b2a33f0f2416ade
+      internalID: -2383224945647901421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6281ec16cd62c1549bcf0171856f5c81
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

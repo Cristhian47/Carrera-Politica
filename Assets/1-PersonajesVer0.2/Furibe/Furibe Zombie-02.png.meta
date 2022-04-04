@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: e40241aebec966e47ba49201f4f59009
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 292945754158716026
+    second: Furibe Zombie-02_0
+  - first:
+      213: -5385053998928426553
+    second: Furibe Zombie-02_1
+  - first:
+      213: -8685616817474464644
+    second: Furibe Zombie-02_2
+  - first:
+      213: 7061894964825337015
+    second: Furibe Zombie-02_3
+  - first:
+      213: 7803080705462300434
+    second: Furibe Zombie-02_4
+  - first:
+      213: 2898646467195586017
+    second: Furibe Zombie-02_5
+  - first:
+      213: -1503634344587490606
+    second: Furibe Zombie-02_6
+  - first:
+      213: -3623620176413412833
+    second: Furibe Zombie-02_7
+  - first:
+      213: -3633010797193962190
+    second: Furibe Zombie-02_8
+  - first:
+      213: 4690645155225271283
+    second: Furibe Zombie-02_9
+  - first:
+      213: -7320244905603734685
+    second: Furibe Zombie-02_10
+  - first:
+      213: -7814069748796235092
+    second: Furibe Zombie-02_11
+  - first:
+      213: -7681007207735540041
+    second: Furibe Zombie-02_12
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Furibe Zombie-02_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 369
+        width: 61
+        height: 109
+      alignment: 9
+      pivot: {x: 0.804505, y: 0.88729775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d361ec66ed9fe64488a61108c1c8142a
+      internalID: 292945754158716026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furibe Zombie-02_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 231
+        width: 194
+        height: 257
+      alignment: 9
+      pivot: {x: 0.64797145, y: 0.289744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebb91fb84ef11c47ad2483e48519ae4
+      internalID: -5385053998928426553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furibe Zombie-02_2
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 128
+        width: 279
+        height: 333
+      alignment: 9
+      pivot: {x: 0.4778077, y: 0.08756465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c82d21eb9d73e54f878c286ad177fd2
+      internalID: -8685616817474464644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furibe Zombie-02_3
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 233
+        width: 75
+        height: 129
+      alignment: 9
+      pivot: {x: 0.6576044, y: 0.92324543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91a32383ed38f74b807aebd988001ab
+      internalID: 7061894964825337015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furibe Zombie-02_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 111
+        width: 93
+        height: 104
+      alignment: 9
+      pivot: {x: 0.46368572, y: 0.8788568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf2877427297e24f9f310b32488cc82
+      internalID: 7803080705462300434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furibe Zombie-02_5
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 98
+        width: 154
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777474166ff96724fbe2a0c3891a5c33
+      internalID: 2898646467195586017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furibe Zombie-02_6
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 19
+        width: 74
+        height: 33
+      alignment: 9
+      pivot: {x: 0.34787193, y: 0.8923058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cd573872480ac4a9eef2b2b1a66adb
+      internalID: -1503634344587490606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furibe Zombie-02_7
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 4
+        width: 62
+        height: 76
+      alignment: 9
+      pivot: {x: 0.4999995, y: 0.988811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd6a778361c6704db8099259b8ea979
+      internalID: -3623620176413412833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furibe Zombie-02_8
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 4
+        width: 63
+        height: 90
+      alignment: 9
+      pivot: {x: 0.49106514, y: 0.98156935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de91aa6cad36049408363a0aebbb6d17
+      internalID: -3633010797193962190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furibe Zombie-02_9
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 20
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d766d1e96e0fbd944a51a283ff17ab67
+      internalID: 4690645155225271283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furibe Zombie-02_10
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 21
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c55a7059152b1847a42bc8dce6e8e1e
+      internalID: -7320244905603734685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furibe Zombie-02_11
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 20
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1defba375432845bb0cf3ac77477cc
+      internalID: -7814069748796235092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furibe Zombie-02_12
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 20
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43448ffcd7cda9541bc16ca1b1f6b6b7
+      internalID: -7681007207735540041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

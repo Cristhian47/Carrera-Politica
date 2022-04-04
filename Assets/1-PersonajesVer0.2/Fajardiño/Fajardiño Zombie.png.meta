@@ -1,0 +1,427 @@
+fileFormatVersion: 2
+guid: c79eaf2d08a7b2b4982956839c0dff2a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8630206510656999219
+    second: "Fajardi\xF1o Zombie_0"
+  - first:
+      213: 453622214358514557
+    second: "Fajardi\xF1o Zombie_1"
+  - first:
+      213: -6572227737870538438
+    second: "Fajardi\xF1o Zombie_2"
+  - first:
+      213: -2684469714134030073
+    second: "Fajardi\xF1o Zombie_3"
+  - first:
+      213: -5131750898959865742
+    second: "Fajardi\xF1o Zombie_4"
+  - first:
+      213: 3350533780813376417
+    second: "Fajardi\xF1o Zombie_5"
+  - first:
+      213: 8884353438122783286
+    second: "Fajardi\xF1o Zombie_6"
+  - first:
+      213: -26249688213488271
+    second: "Fajardi\xF1o Zombie_7"
+  - first:
+      213: 4848184869747687977
+    second: "Fajardi\xF1o Zombie_8"
+  - first:
+      213: 6656506971704636759
+    second: "Fajardi\xF1o Zombie_9"
+  - first:
+      213: 105312247960421980
+    second: "Fajardi\xF1o Zombie_10"
+  - first:
+      213: -9049614668788886668
+    second: "Fajardi\xF1o Zombie_11"
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Fajardi\xF1o Zombie_0"
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 361
+        width: 64
+        height: 116
+      alignment: 9
+      pivot: {x: 0.84190357, y: 0.9191921}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b39e9b2d4356a4493f2df964db01a5
+      internalID: 8630206510656999219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fajardi\xF1o Zombie_1"
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 200
+        width: 196
+        height: 258
+      alignment: 9
+      pivot: {x: 0.6798678, y: 0.2808988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb776108d33f7294fb8f25138517d6f2
+      internalID: 453622214358514557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fajardi\xF1o Zombie_2"
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 160
+        width: 310
+        height: 337
+      alignment: 9
+      pivot: {x: 0.5431361, y: 0.050892}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c8dadd4031351428ddbca731ccdb10
+      internalID: -6572227737870538438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fajardi\xF1o Zombie_3"
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 204
+        width: 79
+        height: 131
+      alignment: 9
+      pivot: {x: 0.63079864, y: 0.91295224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ead9145afe6a7c4ab94ee9a51345717
+      internalID: -2684469714134030073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fajardi\xF1o Zombie_4"
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 58
+        width: 95
+        height: 107
+      alignment: 9
+      pivot: {x: 0.45521253, y: 0.89764476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22975a1274623294a9640a6fa8dfe12c
+      internalID: -5131750898959865742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fajardi\xF1o Zombie_5"
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 44
+        width: 159
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d787b6ca8fc3b4d82a783aa4334e32
+      internalID: 3350533780813376417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fajardi\xF1o Zombie_6"
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 90
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f45c9929eda9f4abb7b50523f19c64
+      internalID: 8884353438122783286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fajardi\xF1o Zombie_7"
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 90
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b267ea1feed844fa80301573fc452e
+      internalID: -26249688213488271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fajardi\xF1o Zombie_8"
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 90
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1a979e47eb0954cb7ae02506eefcd7
+      internalID: 4848184869747687977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fajardi\xF1o Zombie_9"
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 7
+        width: 63
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9248263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea46910554e68664aa94548287b7de9f
+      internalID: 6656506971704636759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fajardi\xF1o Zombie_10"
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 27
+        width: 97
+        height: 34
+      alignment: 9
+      pivot: {x: 0.43107086, y: 0.8039139}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dee244cf2068734ca35ed9a75204189
+      internalID: 105312247960421980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fajardi\xF1o Zombie_11"
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 7
+        width: 64
+        height: 80
+      alignment: 9
+      pivot: {x: 0.49999905, y: 0.9026864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64d1f4f92088d544a1960a3a28e11f5
+      internalID: -9049614668788886668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

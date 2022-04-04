@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: b70e02ed799d6aa4a8ef174f55bf4c9a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5436198052684410761
+    second: NavarroPirata-02_0
+  - first:
+      213: -7108373826817511906
+    second: NavarroPirata-02_1
+  - first:
+      213: -570787708156535834
+    second: NavarroPirata-02_2
+  - first:
+      213: 6303162977697088232
+    second: NavarroPirata-02_3
+  - first:
+      213: -7399398799099401332
+    second: NavarroPirata-02_4
+  - first:
+      213: -6291594269758944564
+    second: NavarroPirata-02_5
+  - first:
+      213: 3297186731689326222
+    second: NavarroPirata-02_6
+  - first:
+      213: 5590925117019640423
+    second: NavarroPirata-02_7
+  - first:
+      213: -9165331087394841737
+    second: NavarroPirata-02_8
+  - first:
+      213: 7746477061172965978
+    second: NavarroPirata-02_9
+  - first:
+      213: -469945239485837039
+    second: NavarroPirata-02_10
+  - first:
+      213: 1741519135194172486
+    second: NavarroPirata-02_11
+  - first:
+      213: -6971577417496329025
+    second: NavarroPirata-02_12
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NavarroPirata-02_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 384
+        width: 64
+        height: 116
+      alignment: 9
+      pivot: {x: 0.8166158, y: 0.8978924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a8d1c9dae6e3f4aba50ce4b9e4e3f9
+      internalID: -5436198052684410761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavarroPirata-02_1
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 249
+        width: 139
+        height: 240
+      alignment: 9
+      pivot: {x: 0.6093348, y: 0.3569365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ea79ea0dfdbb34b9109ea51ea4be43
+      internalID: -7108373826817511906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavarroPirata-02_2
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 84
+        width: 422
+        height: 416
+      alignment: 9
+      pivot: {x: 0.50666904, y: 0.064314716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd7723cd75b03c4483ea43da8266235
+      internalID: -570787708156535834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavarroPirata-02_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 81
+        height: 128
+      alignment: 9
+      pivot: {x: 0.67372626, y: 0.92215466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87032a8c8b62624389e224aa82872fd
+      internalID: 6303162977697088232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavarroPirata-02_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 119
+        width: 96
+        height: 107
+      alignment: 9
+      pivot: {x: 0.4765469, y: 0.8945372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5fe9b1c811c154c9cc8be17da4e035
+      internalID: -7399398799099401332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavarroPirata-02_5
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 95
+        width: 160
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6b1330f3a3f494d8bd1ac4e6e6e445
+      internalID: -6291594269758944564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavarroPirata-02_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3
+        width: 63
+        height: 78
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.99070996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247884cb680ee7d4c956fb224240555b
+      internalID: 3297186731689326222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavarroPirata-02_7
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 3
+        width: 62
+        height: 92
+      alignment: 9
+      pivot: {x: 0.49999988, y: 0.9955732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c39ed061f3660d439bcd92a102b0b14
+      internalID: 5590925117019640423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavarroPirata-02_8
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 10
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89df8fc14192164b98e3c0705bcf879
+      internalID: -9165331087394841737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavarroPirata-02_9
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 10
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7738d5dab314c4981c8e86cf997422
+      internalID: 7746477061172965978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavarroPirata-02_10
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 10
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85104ce702704849b8d1318b77f1fe5
+      internalID: -469945239485837039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavarroPirata-02_11
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 10
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902ee32b88f8c284b832fc19e952a920
+      internalID: 1741519135194172486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavarroPirata-02_12
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 31
+        width: 93
+        height: 35
+      alignment: 9
+      pivot: {x: 0.3123753, y: 0.9502991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337dfb31cb9648e499e811fa38fc47a6
+      internalID: -6971577417496329025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
