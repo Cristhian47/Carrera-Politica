@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{8967911C-5699-31CE-7A41-81981404EDF0}</ProjectGuid>
+    <ProjectGuid>{020E1629-8E2B-FD74-5313-B3A7BC2FD617}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -47,66 +47,113 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\super_punch\game_shop\scripts\ShopLink.cs" />
      <Compile Include="Assets\Scripts\3-PlantasVsZombies\DragAndDropPlant.cs" />
      <Compile Include="Assets\Scripts\1-MainMenu\Ruleta\WheelTurn.cs" />
+     <Compile Include="Assets\super_punch\scripts\behaviour\game\GameBehaviour.cs" />
      <Compile Include="Assets\Scripts\1-MainMenu\Tutorial\DontDestroyTutorial.cs" />
+     <Compile Include="Assets\super_punch\scripts\behaviour\fighter\headController.cs" />
+     <Compile Include="Assets\super_punch\scripts\behaviour\field\RoundGirlBehaviour.cs" />
      <Compile Include="Assets\Scripts\3-PlantasVsZombies\PlantsScripts\StarFlower.cs" />
      <Compile Include="Assets\REJUMP\Scripts\JumperGameManager.cs" />
      <Compile Include="Assets\REJUMP\Scripts\LevelGenerator.cs" />
      <Compile Include="Assets\Scripts\3-PlantasVsZombies\Zombie.cs" />
      <Compile Include="Assets\REJUMP\Scripts\DayCircleOverlay.cs" />
      <Compile Include="Assets\Scripts\ActualizeAnimalsCounter.cs" />
+     <Compile Include="Assets\super_punch\game_core\scripts\views\ui\TextView.cs" />
      <Compile Include="Assets\Scripts\1-MainMenu\ClaimStars\ClaimForVideo.cs" />
+     <Compile Include="Assets\super_punch\game_shop\scripts\LinkCanvasButton.cs" />
+     <Compile Include="Assets\super_punch\game_core\scripts\views\ui\ButtonView.cs" />
      <Compile Include="Assets\REJUMP\Scripts\Donate.cs" />
+     <Compile Include="Assets\super_punch\game_core\scripts\behaviour\game\timeOutScene.cs" />
+     <Compile Include="Assets\super_punch\scripts\behaviour\field\BloodMeter.cs" />
+     <Compile Include="Assets\super_punch\game_core\scripts\managers\TimeManager.cs" />
+     <Compile Include="Assets\super_punch\game_core\scripts\behaviour\ui\ButtonBehaviour.cs" />
      <Compile Include="Assets\Scripts\3-PlantasVsZombies\DestroyInSeconds.cs" />
      <Compile Include="Assets\Scripts\3-PlantasVsZombies\UnlockCards.cs" />
+     <Compile Include="Assets\super_punch\game_core\scripts\behaviour\game\SplashBehaviour.cs" />
+     <Compile Include="Assets\super_punch\scripts\behaviour\field\ObjectBehaviour.cs" />
      <Compile Include="Assets\Scripts\1-MainMenu\Tutorial\PVZTutorial.cs" />
      <Compile Include="Assets\Scripts\1-MainMenu\Tienda\StoreItem.cs" />
      <Compile Include="Assets\Scripts\1-MainMenu\DataActualizer.cs" />
+     <Compile Include="Assets\super_punch\scripts\behaviour\game\GamePadController.cs" />
      <Compile Include="Assets\Scripts\3-PlantasVsZombies\GetChallengeValues.cs" />
      <Compile Include="Assets\Scripts\3-PlantasVsZombies\PowerUpsScripts\DeletePlant.cs" />
      <Compile Include="Assets\Scripts\6-Flappy\PlayerFlying.cs" />
      <Compile Include="Assets\Scripts\1-MainMenu\BuyStamps.cs" />
+     <Compile Include="Assets\super_punch\scripts\managers\AdmobManager.cs" />
      <Compile Include="Assets\Scripts\1-MainMenu\Tutorial\ScrollFlappyBackground.cs" />
      <Compile Include="Assets\Scripts\AssignCardAndPrefab.cs" />
      <Compile Include="Assets\Scripts\1-MainMenu\InterfaceManagerMenu.cs" />
      <Compile Include="Assets\Scripts\1-MainMenu\ShareButton.cs" />
+     <Compile Include="Assets\super_punch\scripts\test\FPSCounter.cs" />
+     <Compile Include="Assets\super_punch\game_core\scripts\behaviour\ui\legalBehaviour.cs" />
+     <Compile Include="Assets\super_punch\game_core\scripts\behaviour\ui\TouchBehaviour.cs" />
+     <Compile Include="Assets\super_punch\game_core\scripts\soundsystem\SoundManager.cs" />
      <Compile Include="Assets\Scripts\3-PlantasVsZombies\AnimalsPVZ\AnimalsSpawn.cs" />
      <Compile Include="Assets\REJUMP\Scripts\Game.cs" />
      <Compile Include="Assets\Scripts\3-PlantasVsZombies\PowerUpsScripts\ActiveWallsPowerUp.cs" />
      <Compile Include="Assets\Scripts\2-GameManager\GetRegisterData.cs" />
      <Compile Include="Assets\Scripts\ActualizeStampsTexts.cs" />
      <Compile Include="Assets\Scripts\3-PlantasVsZombies\PowerUpsScripts\ShowPowerUpCantity.cs" />
+     <Compile Include="Assets\super_punch\game_core\scripts\behaviour\ui\PauseButton.cs" />
      <Compile Include="Assets\Scripts\ActualizeItems.cs" />
+     <Compile Include="Assets\super_punch\game_core\scripts\behaviour\ui\StatsData.cs" />
      <Compile Include="Assets\REJUMP\Scripts\Player.cs" />
+     <Compile Include="Assets\Scripts\Publicidad\AdsInitializer.cs" />
+     <Compile Include="Assets\super_punch\scripts\behaviour\fighter\injured\FighterInjuryBehaviour.cs" />
      <Compile Include="Assets\REJUMP\Scripts\Block.cs" />
      <Compile Include="Assets\REJUMP\Scripts\Tutorial.cs" />
      <Compile Include="Assets\Scripts\UnlockClothes.cs" />
+     <Compile Include="Assets\super_punch\scripts\behaviour\game\MultiTouchController.cs" />
+     <Compile Include="Assets\super_punch\game_core\scripts\behaviour\ui\LinkCanvasButton.cs" />
      <Compile Include="Assets\Scripts\1-MainMenu\Tienda\StoreManager.cs" />
+     <Compile Include="Assets\super_punch\game_core\scripts\behaviour\ui\SocialCanvasButton.cs" />
+     <Compile Include="Assets\super_punch\scripts\behaviour\field\BloodBehaviour.cs" />
+     <Compile Include="Assets\super_punch\game_core\scripts\behaviour\ui\SoundCanvasButton.cs" />
      <Compile Include="Assets\Scripts\3-PlantasVsZombies\PlantsToSelect.cs" />
      <Compile Include="Assets\Scripts\3-PlantasVsZombies\AssignCardCooldown.cs" />
+     <Compile Include="Assets\super_punch\game_core\scripts\behaviour\game\SpawnerBehaviour.cs" />
+     <Compile Include="Assets\super_punch\game_core\scripts\views\ui\BarView.cs" />
      <Compile Include="Assets\Scripts\CloseNoRewardVideo.cs" />
      <Compile Include="Assets\Scripts\1-MainMenu\Tutorial\ZombieTutorial.cs" />
      <Compile Include="Assets\Scripts\1-MainMenu\Redes\ShareImageCanvas.cs" />
+     <Compile Include="Assets\super_punch\game_core\scripts\behaviour\game\DestroyOnContact.cs" />
+     <Compile Include="Assets\super_punch\game_core\scripts\touchSystem\TouchSystem2D.cs" />
+     <Compile Include="Assets\super_punch\game_core\scripts\behaviour\ui\MusicButtonBehaviour.cs" />
+     <Compile Include="Assets\super_punch\scripts\behaviour\game\AdBehaviour.cs" />
      <Compile Include="Assets\REJUMP\Scripts\NewsScripts\EnableCharactersPurchased.cs" />
      <Compile Include="Assets\Scripts\3-PlantasVsZombies\PlantsScripts\Hypno.cs" />
      <Compile Include="Assets\Scripts\1-MainMenu\UnlockWorlds.cs" />
+     <Compile Include="Assets\super_punch\game_core\scripts\behaviour\game\ScreenShakeBehaviour.cs" />
+     <Compile Include="Assets\super_punch\game_core\scripts\behaviour\game\loadingScreen.cs" />
+     <Compile Include="Assets\super_punch\game_core\scripts\behaviour\ui\FadePanelBehaviour.cs" />
+     <Compile Include="Assets\super_punch\game_core\scripts\managers\StatsManager.cs" />
      <Compile Include="Assets\Scripts\Publicidad\GameController.cs" />
+     <Compile Include="Assets\super_punch\game_core\scripts\achievementSystem\actionBehaviour.cs" />
      <Compile Include="Assets\Scripts\3-PlantasVsZombies\PowerUpsScripts\ScaryAllTheZombies.cs" />
      <Compile Include="Assets\Scripts\3-PlantasVsZombies\PlantsScripts\LanzaGuisantes.cs" />
+     <Compile Include="Assets\super_punch\game_core\scripts\behaviour\game\PauseAudioBehaviour.cs" />
      <Compile Include="Assets\Scripts\3-PlantasVsZombies\PlantsScripts\AplastaZombies.cs" />
+     <Compile Include="Assets\super_punch\scripts\behaviour\game\SelectBehaviour.cs" />
      <Compile Include="Assets\Scripts\1-MainMenu\LoadingPanel\SetLoadingPanelImage.cs" />
      <Compile Include="Assets\REJUMP\Scripts\Parallax.cs" />
      <Compile Include="Assets\Scripts\1-MainMenu\ScrollSnapRect.cs" />
      <Compile Include="Assets\Scripts\3-PlantasVsZombies\ZombiesSpawn.cs" />
+     <Compile Include="Assets\super_punch\game_core\scripts\managers\LevelManager.cs" />
      <Compile Include="Assets\Scripts\2-GameManager\DetectLevelObjectName.cs" />
-     <Compile Include="Assets\Scripts\3-PlantasVsZombies\PowerUpsScripts\StunAllZombies.cs" />
      <Compile Include="Assets\Scripts\3-PlantasVsZombies\PowerUpsScripts\DestroyOneLine.cs" />
+     <Compile Include="Assets\super_punch\scripts\behaviour\fighter\PunchController.cs" />
      <Compile Include="Assets\Scripts\1-MainMenu\Challenges.cs" />
+     <Compile Include="Assets\Scripts\3-PlantasVsZombies\PowerUpsScripts\StunAllZombies.cs" />
      <Compile Include="Assets\SimpleAndroidNotifications\NotificationParams.cs" />
      <Compile Include="Assets\Scripts\3-PlantasVsZombies\Plants.cs" />
+     <Compile Include="Assets\super_punch\game_core\scripts\behaviour\game\MusicMuteBehaviour.cs" />
      <Compile Include="Assets\SimpleAndroidNotifications\NotificationExample.cs" />
+     <Compile Include="Assets\super_punch\scripts\behaviour\game\ObjectPool.cs" />
+     <Compile Include="Assets\super_punch\game_core\scripts\views\ui\StarView.cs" />
      <Compile Include="Assets\Scripts\NuevoPanelMundos\DesactivarPanelBloqueo.cs" />
+     <Compile Include="Assets\super_punch\scripts\behaviour\fighter\injured\FighterInjuredBehaviour.cs" />
      <Compile Include="Assets\Scripts\Publicidad\AdReady.cs" />
      <Compile Include="Assets\REJUMP\Scripts\PauseMenu.cs" />
      <Compile Include="Assets\Scripts\1-MainMenu\ClaimStars\AdmobImplements.cs" />
@@ -114,7 +161,11 @@
      <Compile Include="Assets\Scripts\3-PlantasVsZombies\PlantSelected.cs" />
      <Compile Include="Assets\Scripts\NextWithTeam.cs" />
      <Compile Include="Assets\Scripts\3-PlantasVsZombies\PlantsScripts\Sunflower.cs" />
+     <Compile Include="Assets\super_punch\scripts\behaviour\field\SpawnerBehaviour.cs" />
+     <Compile Include="Assets\super_punch\scripts\managers\InputManager.cs" />
+     <Compile Include="Assets\super_punch\game_core\scripts\views\ui\PanelView.cs" />
      <Compile Include="Assets\Scripts\1-MainMenu\SoundAndEffects\MusicSetActive.cs" />
+     <Compile Include="Assets\Scripts\Publicidad\RewardedAdsButton.cs" />
      <Compile Include="Assets\Scripts\3-PlantasVsZombies\PowerUpsScripts\Pruner.cs" />
      <Compile Include="Assets\REJUMP\Scripts\Coin.cs" />
      <Compile Include="Assets\REJUMP\Scripts\HUD.cs" />
@@ -122,7 +173,15 @@
      <Compile Include="Assets\Scripts\2-GameManager\DontDestroyThisObject.cs" />
      <Compile Include="Assets\Scripts\1-MainMenu\Tutorial\TextManager.cs" />
      <Compile Include="Assets\Scripts\3-PlantasVsZombies\TimeToPlant.cs" />
+     <Compile Include="Assets\super_punch\game_core\scripts\achievementSystem\Filter.cs" />
+     <Compile Include="Assets\super_punch\scripts\behaviour\fighter\PlayHurtEffects.cs" />
+     <Compile Include="Assets\super_punch\game_shop\scripts\ShopController.cs" />
      <Compile Include="Assets\Scripts\3-PlantasVsZombies\PowerUpsScripts\UsePowerUp.cs" />
+     <Compile Include="Assets\super_punch\game_core\scripts\achievementSystem\filters.cs" />
+     <Compile Include="Assets\super_punch\game_core\scripts\behaviour\ui\CreditsBehaviour.cs" />
+     <Compile Include="Assets\super_punch\scripts\test\testPunchBag.cs" />
+     <Compile Include="Assets\super_punch\game_core\scripts\views\ui\SoundView.cs" />
+     <Compile Include="Assets\super_punch\game_core\scripts\behaviour\ui\CloseButtonBehaviour.cs" />
      <Compile Include="Assets\Scripts\3-PlantasVsZombies\LoseGame.cs" />
      <Compile Include="Assets\Scripts\3-PlantasVsZombies\SkySunSpawner.cs" />
      <Compile Include="Assets\Scripts\1-MainMenu\Tutorial\AnimatedText.cs" />
@@ -133,33 +192,46 @@
      <Compile Include="Assets\Scripts\1-MainMenu\ControladorTutorial.cs" />
      <Compile Include="Assets\Scripts\1-MainMenu\SoundAndEffects\MainSoundSetActive.cs" />
      <Compile Include="Assets\REJUMP\Scripts\CoinSpawner.cs" />
-     <Compile Include="Assets\Scripts\6-Flappy\FlappyGameController.cs" />
+     <Compile Include="Assets\super_punch\game_core\scripts\behaviour\game\GameBehaviour.cs" />
      <Compile Include="Assets\REJUMP\Scripts\MainMenu.cs" />
+     <Compile Include="Assets\super_punch\game_core\scripts\touchSystem\TouchSystem3D.cs" />
+     <Compile Include="Assets\Scripts\6-Flappy\FlappyGameController.cs" />
+     <Compile Include="Assets\super_punch\game_core\scripts\behaviour\game\BoundaryBehaviour.cs" />
      <Compile Include="Assets\Scripts\1-MainMenu\RegisterState.cs" />
+     <Compile Include="Assets\super_punch\game_core\scripts\behaviour\game\particleSortingLayer.cs" />
+     <Compile Include="Assets\super_punch\game_core\scripts\achievementSystem\achievement.cs" />
      <Compile Include="Assets\REJUMP\Scripts\NewsScripts\AssignJumperClothes.cs" />
+     <Compile Include="Assets\super_punch\game_core\scripts\soundsystem\SoundSystemStates.cs" />
      <Compile Include="Assets\Scripts\1-MainMenu\LoadingPanel\SetLoadingPanelSound.cs" />
+     <Compile Include="Assets\super_punch\game_core\scripts\behaviour\game\objectFade.cs" />
      <Compile Include="Assets\Scripts\1-MainMenu\Tutorial\PVZManagerTutorial.cs" />
+     <Compile Include="Assets\super_punch\game_shop\scripts\ButtonBehaviour.cs" />
      <Compile Include="Assets\Scripts\1-MainMenu\Ruleta\FortuneWheelManager.cs" />
+     <Compile Include="Assets\super_punch\game_core\scripts\behaviour\game\ObjectPool.cs" />
      <Compile Include="Assets\Scripts\1-MainMenu\Tutorial\AssignCardCooldownTutorial.cs" />
      <Compile Include="Assets\Scripts\1-MainMenu\Tienda\ClothesSave.cs" />
+     <Compile Include="Assets\super_punch\scripts\behaviour\fighter\FighterStates.cs" />
      <Compile Include="Assets\Scripts\1-MainMenu\RegisterSingleton.cs" />
      <Compile Include="Assets\Scripts\1-MainMenu\SoundAndEffects\EffectsSetActive.cs" />
-     <Compile Include="Assets\Scripts\3-PlantasVsZombies\Guisante.cs" />
      <Compile Include="Assets\Scripts\1-MainMenu\ClaimStars\AdvertiserAbstract.cs" />
+     <Compile Include="Assets\Scripts\3-PlantasVsZombies\Guisante.cs" />
+     <Compile Include="Assets\super_punch\game_core\plugins\FSMSystem.cs" />
      <Compile Include="Assets\Scripts\1-MainMenu\ClaimStars\UnityImplements.cs" />
+     <Compile Include="Assets\super_punch\scripts\behaviour\fighter\FighterController.cs" />
      <Compile Include="Assets\Scripts\3-PlantasVsZombies\PlantsVsZombiesManager.cs" />
      <Compile Include="Assets\Scripts\1-MainMenu\ProfileData.cs" />
      <Compile Include="Assets\Scripts\MapController.cs" />
      <Compile Include="Assets\REJUMP\Scripts\PlayerCamera.cs" />
+     <Compile Include="Assets\super_punch\game_core\scripts\managers\SettingsManager.cs" />
      <Compile Include="Assets\Scripts\1-MainMenu\Tutorial\RepeatFlappyBackground.cs" />
      <Compile Include="Assets\REJUMP\Scripts\ForAdsIntegration\AdsController.cs" />
+     <Compile Include="Assets\super_punch\game_shop\plugins\CSVReader.cs" />
      <Compile Include="Assets\Scripts\2-GameManager\GameManager.cs" />
      <Compile Include="Assets\REJUMP\Scripts\NewsScripts\GetJumperChallengeValues.cs" />
      <Compile Include="Assets\Scripts\1-MainMenu\Perfil\ActualizeProfileData.cs" />
      <Compile Include="Assets\SimpleAndroidNotifications\NotificationManager.cs" />
+     <Compile Include="Assets\super_punch\game_core\scripts\behaviour\ui\CanvasButton.cs" />
      <Compile Include="Assets\Scripts\1-MainMenu\Tutorial\PlantsTutorial.cs" />
-     <Compile Include="Assets\Scripts\Publicidad\AdsInitializer.cs" />
-     <Compile Include="Assets\Scripts\Publicidad\RewardedAdsButton.cs" />
      <None Include="Assets\REJUMP\Shaders\ParalaxSprite.shader" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.29f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
@@ -723,103 +795,103 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.29f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Xml.XPath.XDocument.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Animation.Editor">
- <HintPath>C:/unity proyectos/botooooooon/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll</HintPath>
+ <HintPath>C:/Users/Cris/Documents/GitHub/Carrera-Politica/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.InternalAPIEngineBridge.001">
- <HintPath>C:/unity proyectos/botooooooon/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
+ <HintPath>C:/Users/Cris/Documents/GitHub/Carrera-Politica/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>C:/unity proyectos/botooooooon/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>C:/Users/Cris/Documents/GitHub/Carrera-Politica/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.PixelPerfect">
- <HintPath>C:/unity proyectos/botooooooon/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll</HintPath>
+ <HintPath>C:/Users/Cris/Documents/GitHub/Carrera-Politica/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Tilemap.Editor">
- <HintPath>C:/unity proyectos/botooooooon/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+ <HintPath>C:/Users/Cris/Documents/GitHub/Carrera-Politica/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
  </Reference>
  <Reference Include="PsdPlugin">
- <HintPath>C:/unity proyectos/botooooooon/Library/ScriptAssemblies/PsdPlugin.dll</HintPath>
+ <HintPath>C:/Users/Cris/Documents/GitHub/Carrera-Politica/Library/ScriptAssemblies/PsdPlugin.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/unity proyectos/botooooooon/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/Users/Cris/Documents/GitHub/Carrera-Politica/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VisualStudio.Editor">
- <HintPath>C:/unity proyectos/botooooooon/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+ <HintPath>C:/Users/Cris/Documents/GitHub/Carrera-Politica/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>C:/unity proyectos/botooooooon/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>C:/Users/Cris/Documents/GitHub/Carrera-Politica/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/unity proyectos/botooooooon/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
- </Reference>
- <Reference Include="Unity.2D.IK.Editor">
- <HintPath>C:/unity proyectos/botooooooon/Library/ScriptAssemblies/Unity.2D.IK.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.2D.Sprite.Editor">
- <HintPath>C:/unity proyectos/botooooooon/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.2D.Psdimporter.Editor">
- <HintPath>C:/unity proyectos/botooooooon/Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.2D.Path.Editor">
- <HintPath>C:/unity proyectos/botooooooon/Library/ScriptAssemblies/Unity.2D.Path.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.InternalAPIEditorBridge.001">
- <HintPath>C:/unity proyectos/botooooooon/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
- </Reference>
- <Reference Include="UnityEditor.UI">
- <HintPath>C:/unity proyectos/botooooooon/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
- </Reference>
- <Reference Include="Unity.PlasticSCM.Editor">
- <HintPath>C:/unity proyectos/botooooooon/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Rider.Editor">
- <HintPath>C:/unity proyectos/botooooooon/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.UI">
- <HintPath>C:/unity proyectos/botooooooon/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Mathematics">
- <HintPath>C:/unity proyectos/botooooooon/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
- </Reference>
- <Reference Include="Unity.2D.IK.Runtime">
- <HintPath>C:/unity proyectos/botooooooon/Library/ScriptAssemblies/Unity.2D.IK.Runtime.dll</HintPath>
- </Reference>
- <Reference Include="Unity.2D.Animation.Triangle.Runtime">
- <HintPath>C:/unity proyectos/botooooooon/Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.dll</HintPath>
- </Reference>
- <Reference Include="Unity.2D.Animation.Runtime">
- <HintPath>C:/unity proyectos/botooooooon/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
- </Reference>
- <Reference Include="Unity.2D.PixelPerfect.Editor">
- <HintPath>C:/unity proyectos/botooooooon/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Timeline.Editor">
- <HintPath>C:/unity proyectos/botooooooon/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Mathematics.Editor">
- <HintPath>C:/unity proyectos/botooooooon/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.2D.Common.Runtime">
- <HintPath>C:/unity proyectos/botooooooon/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
- </Reference>
- <Reference Include="Unity.2D.SpriteShape.Editor">
- <HintPath>C:/unity proyectos/botooooooon/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.2D.Common.Editor">
- <HintPath>C:/unity proyectos/botooooooon/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.2D.SpriteShape.Runtime">
- <HintPath>C:/unity proyectos/botooooooon/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.Monetization">
- <HintPath>C:/unity proyectos/botooooooon/Library/ScriptAssemblies/UnityEngine.Monetization.dll</HintPath>
+ <HintPath>C:/Users/Cris/Documents/GitHub/Carrera-Politica/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Advertisements">
- <HintPath>C:/unity proyectos/botooooooon/Library/ScriptAssemblies/UnityEngine.Advertisements.dll</HintPath>
+ <HintPath>C:/Users/Cris/Documents/GitHub/Carrera-Politica/Library/ScriptAssemblies/UnityEngine.Advertisements.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.IK.Editor">
+ <HintPath>C:/Users/Cris/Documents/GitHub/Carrera-Politica/Library/ScriptAssemblies/Unity.2D.IK.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.Sprite.Editor">
+ <HintPath>C:/Users/Cris/Documents/GitHub/Carrera-Politica/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.Psdimporter.Editor">
+ <HintPath>C:/Users/Cris/Documents/GitHub/Carrera-Politica/Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.Path.Editor">
+ <HintPath>C:/Users/Cris/Documents/GitHub/Carrera-Politica/Library/ScriptAssemblies/Unity.2D.Path.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.InternalAPIEditorBridge.001">
+ <HintPath>C:/Users/Cris/Documents/GitHub/Carrera-Politica/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.UI">
+ <HintPath>C:/Users/Cris/Documents/GitHub/Carrera-Politica/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.PlasticSCM.Editor">
+ <HintPath>C:/Users/Cris/Documents/GitHub/Carrera-Politica/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Rider.Editor">
+ <HintPath>C:/Users/Cris/Documents/GitHub/Carrera-Politica/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UI">
+ <HintPath>C:/Users/Cris/Documents/GitHub/Carrera-Politica/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Mathematics">
+ <HintPath>C:/Users/Cris/Documents/GitHub/Carrera-Politica/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.IK.Runtime">
+ <HintPath>C:/Users/Cris/Documents/GitHub/Carrera-Politica/Library/ScriptAssemblies/Unity.2D.IK.Runtime.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.Animation.Triangle.Runtime">
+ <HintPath>C:/Users/Cris/Documents/GitHub/Carrera-Politica/Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.Animation.Runtime">
+ <HintPath>C:/Users/Cris/Documents/GitHub/Carrera-Politica/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.PixelPerfect.Editor">
+ <HintPath>C:/Users/Cris/Documents/GitHub/Carrera-Politica/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Timeline.Editor">
+ <HintPath>C:/Users/Cris/Documents/GitHub/Carrera-Politica/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Mathematics.Editor">
+ <HintPath>C:/Users/Cris/Documents/GitHub/Carrera-Politica/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Monetization">
+ <HintPath>C:/Users/Cris/Documents/GitHub/Carrera-Politica/Library/ScriptAssemblies/UnityEngine.Monetization.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.Common.Runtime">
+ <HintPath>C:/Users/Cris/Documents/GitHub/Carrera-Politica/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.SpriteShape.Editor">
+ <HintPath>C:/Users/Cris/Documents/GitHub/Carrera-Politica/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.Common.Editor">
+ <HintPath>C:/Users/Cris/Documents/GitHub/Carrera-Politica/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Advertisements.Editor">
- <HintPath>C:/unity proyectos/botooooooon/Library/ScriptAssemblies/UnityEngine.Advertisements.Editor.dll</HintPath>
+ <HintPath>C:/Users/Cris/Documents/GitHub/Carrera-Politica/Library/ScriptAssemblies/UnityEngine.Advertisements.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.SpriteShape.Runtime">
+ <HintPath>C:/Users/Cris/Documents/GitHub/Carrera-Politica/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>

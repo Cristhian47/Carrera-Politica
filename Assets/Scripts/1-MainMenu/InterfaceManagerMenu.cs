@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class InterfaceManagerMenu : MonoBehaviour {
@@ -110,6 +111,11 @@ public class InterfaceManagerMenu : MonoBehaviour {
         {
             Destroy(gameObject);
         }
+    }
+
+    public void CargarSuperPunch()
+    {
+        SceneManager.LoadScene("select");
     }
 
     //-------------------TIENDA------------------------
